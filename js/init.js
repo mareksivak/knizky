@@ -162,7 +162,6 @@ function init_books() {
             areAnimationsFinished = true;
         }, 1000);
     });
-    
     intro_anim();
 }
  

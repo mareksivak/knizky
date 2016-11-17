@@ -29,6 +29,7 @@ function intro_anim() {
     // zistit, kolko blokov sa ma animovat. je to tu, lebo boli syncing issues
     MAX = 0;
     var display = $( window ).height();
+    if (display == 0) display = 1200;
     var block_sum = 0;
     console.log(display);
     
