@@ -22,7 +22,8 @@ function animate_block_in(element) {
 }
   
 
-$(document).ready(function() {
+//$(document).ready(function() {
+function intro_anim() {
     var step_delay = 100;
     
     // zistit, kolko blokov sa ma animovat. je to tu, lebo boli syncing issues
@@ -52,7 +53,7 @@ $(document).ready(function() {
         setTimeout(animate_block_in.bind(null, $(el)), i*step_delay + DELAY);
       
     }
-     
-});
+}
+//});
 
   
