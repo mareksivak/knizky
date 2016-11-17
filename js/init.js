@@ -125,7 +125,7 @@ function init_books() {
     
     $(".js-collapsed").click(function() 
     {
-      if (!anim_finished) return;
+   //   if (!anim_finished) return;
         show_book($(this));
         
     });			
