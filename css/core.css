@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box; 
+    transition: 0.2s;
+    
+    scroll-behavior: smooth;
+}
+
+
+body
+{
+
+	font-size:16px;
+    line-height: 1.5;
+    color: #151515;
+    margin: 0;
+}
+
+br
+{
+	line-height:1.8;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.book-memos-wrapper
+{
+    
+    margin:0 auto;
+    
+    margin-top: 4rem;
+    padding-bottom: 3rem;
+    text-align: left;
+}
+
+.book-memos-wrapper .book-memos {
+    
+    padding: 1rem;
+    max-width: 500px;
+    margin: 0 auto;
+    
+}
+
+.book-memos-wrapper, .nav-arrow 
+{
+    display: none;
+}
+
+.nav-arrow
+{
+    width:3rem;
+    height: 3rem;
+    position:absolute;
+    top: 1rem;
+    left: 0rem;
+}
+
+
+.nav-arrow svg
+{
+    width: 2rem;
+    height: 2rem;
+    padding: 0.25rem;
+}
+
+.nav-arrow svg .vector {
+    fill: rgba(0,0,0,0.4);
+}
+.nav-arrow:hover svg .vector
+{
+    fill: rgba(0,0,0,0.8);
+    
+    -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.footer
+{
+    margin-bottom: 4rem;
+}
+
+.js-active {
+    min-height: 100vh;
+}
+
+.js-hidden {
+    display:none;
+}
+
+.js-collapsed {
+    cursor: pointer;
+}

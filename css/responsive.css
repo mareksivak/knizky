@@ -1,0 +1,25 @@
+@media only screen and (max-width: 48rem)
+{
+}
+
+@media only screen and (min-width: 48rem)
+{
+    .block .primary {
+        font-size: 4rem;
+    }
+    .book-memos {
+        font-size: 1.25rem;
+    }
+    .nav-arrow {
+        left: 2rem;
+    }
+}
+
+@media only screen and (min-width: 62rem)
+{
+}
+
+@media only screen and (min-width: 75rem)
+{
+}
+
