@@ -45,5 +45,66 @@
 <br>Ako dnes večer. Keby sme boli vzali toho chlapa a podali si ho, bolo by to pohlo, aspoň trocha. Ak budete mať niekedy vy, Židia, vlastný štát, poďakujte sa svojim teroristickým organizáciám. Teror a násilie sú veľké zbrane. Používajú ich organizácie na celom svete. Nikdy nepodceňujte ich moc. Prekvapuje ma, že to neviete po skúsenostiach, ktoré máte za sebou (holokaust).
 <br>64
 <br>
+Ako v tom starom vtipe o novomanželov. Len čo sú sami, muž vylepí žene a povie jej: Neviem, za čo, ale ty už budeš vedieť.
+<br>65
 <br>
+<br>Chcel som byť s tebou sám, lebo mám nápad, ako zarobiť pekný balík. Každý našinec si tu mastí vrecko. Mám styky, drahokamy za cigarety a tak. Mohol by som ti niečo dohodiť.
+<br>66
+<br>
+<br>Ruiny sa rozprestierali na všetky strany ako hrbaté pastviská a za týmto kamenným chotárom, tam, kde stáli prvé domčeky, práve otvárali malé nemecké kino a dlhý zástup čakajúcich sa pomaly pohol dnu.
+<br>69
+<br>
+<br>Nie je čudné, že tu stojíte a dávate pozor, aby sme nemohli ísť, kam chceme? Veru pekná povinnosť, dôstojná človeka! A ako sa jeden druhého zraňujeme a zabíjame. A kvôli čomu? Povedzte, keby si Nemecko udržalo Afriku a Francúzsko, zarobil by som ja osobne o groš viac? Hádam si ja, ja sám nejako pomôžem, keď Nemecko ovládne svet? Aj keby sme vyhrali, ja by som vyhral iba doživotne uniformu. Keď sme boli deti, so zatajeným dychom sme čítavali o zlatom veku našej vlasti, o tom, ako Francúzsko alebo Nemecko alebo Španielsko vládli Európe a svetu. Stávajú sa sochy mužom, ktorú zapríčinili smrť miliónom blížnych. Ako je to vlastne? Nenávidíme sa, zabíjame sa. Pochopil by som, keby sme niečo získali. Keby sa nakoniec povedalo: Tu je kus zeme, ktorý sme vzali Francúzsky, každý dostane z toho koláča kúsok.
+<br>74
+<br>
+<br>Mosca robil cez vojnu strážcu v zajateckom tábore. Raz na konci šichty zistil, že mu jeden Nemecký chýba. Zrovna krátko na to prišiel na kontrolu anglický dôstojník. Pri zoradení zistili, že chýbajú štyria. 
+<br>...
+<br>Dobre. Vieme, na čom sme. Je po medových týždňoch. Nikomu z vás sa neskrivil vlások na hlave. Mali ste dobrú stravu, slušně miesto na spanie. Naháňal vás niekedy niekto do práce? Nepáčilo sa vám len to, že vás držíme v barakoch. Kto má nejakú sťažnosť? Nech vystúpi! Odmlcal sa, akoby čakal, že sa niekto naozaj bude ponosovat, a pokračoval: No, uvidíme, ci si to vážite. Niekto z vás vie, kedy tanti ušli a kam. Hovorte! Nezabudneme a oceníme!
+<br>...
+<br>Dôstojník dal priniesť lopaty a kropmáče a prikázal im kopať zákop.
+<br>...
+<br>Seržant žmurkol na Moscu a ticho povedal: dobrý bluf vždy zaberie. Dávaj pozor.
+<br>Ešte chvíľu ich nechal kopať a potom ich zastavil. Chce niekto hovoriť? Zlovestne sa usmial. 
+<br>Nikto neodpovedal.
+<br>Ako myslíte. Seržant kývol rukou. Kopte!
+<br>...
+<br>Jeden to nevydržal a prezradil. Sadli do jeepov, došli do mesta, k domu, kde sa ukrývali. Cestou naspäť zastavili uprostred pastviny, ostatných zobrali naspäť, nechal si len Fritza. Povedal mu, nech uteká cez pastvinu do lesa. Prosil, že mal ženu a deti (starý mládenec), no po pár ranách päsťou išiel. Keď sa blížil ku kamennemu nasypu, začali doňho páliť a zastrelili ho.
+<br>76
+<br>
+<br>Že v cudzích, vyludnených mestách ležali mŕtvi a nad rozrumenenými hrobmi zúril boj, že z domov, podobným lebkam, rástli kvety čierneho dymu a neskôr všade biela šnúra okolo zuhoľnateného nepriateľského tanku na znak, že nie je odmínovaný, pred domami, ako keď deti spravia kriedou bielu čiaru, za ktorú sa nesmie, a šnúr stále pribúdalo ako v zakliatom svete, biela šnúra okolo kostola, okolo mŕtvol na námestí, okolo sudov vína v sedliakovej stodole a v chotároch znamenie lebky so skríženými hnátmi pri mŕtvych zvieratách, kravach, mocných ťažnýh koňoch, ktoré padli za obeť mínama ležali s rozorvanymi bruchami, rozchlípenými od slnka.
+<br>80
+<br>
+<br>Z Wolfovej tváre sa vytratil úsmev a usadil sa na nej autoritatívny výraz, vyrovnaný, sebaistý, akoby mal túto masku vždy naporúdzi.
+<br>100
+<br>
+<br>Zmĺkol a pozrel starene do očí. Nebol v nich ani náznak strachu. Wolfov pohľad opätovala celkom pokojne, neústupčivo. Pochopil starenin pohľad azda ako nikto iný. Hovoril, že slová nič neznamenajú, že iba hrozby ľudskú vôľu ani nezlomia, ani na nič neprinútia.
+<br>
+<br>Tak jeden úder, aby sme spečatili dohodu. 
+<br>Až teraz dostala starena strach. Tvar jej ovisla, hlas sa roztriasol.
+<br>102
+<br>
+<br>Ľudia zabúdajú. Zabúdajú, čo je strach. Ten úder bol kľúčom. To si dobre zapamätaj! Bez úderu by sa nebála. Ľudia sú už takí.
+<br>102# 
+<br>
+<br>A pred týždňom bol svedkom, ako postavili k múru troch Poliakov, na hádzanárskom ihrisku za základňou, troch odvážnych Poliakov, ktorí zmasakrovali nemeckú dedinku, mužov, ženy a deti, lenže sa zmýlili, vraždili niekoľko dní po začiatku okupácie, a nie niekoľko dní pred ňou, a tak namiesto medailí od generála ich do pol pása zahalili hnedými kordovými vrecami, priviazali k dreveným kolom, zarazených do  puklin v betóne a popravcia čata, stojaca takmer nad nimi, strieľala iba na pár krokov do sklesnutých tiel.
+<br>121
+<br>
+<br>Na budúci týždeň odchádzam do Norimbergu. Budem svedčiť proti strážny a veliteľom z Buchenwaldu. Sprvu som odmietal, ale potom mi povedali, že medzi obžalovanými je aj istý lekár. Ten, čo nám vravieval: Nie som tu na to, aby som liečil vaše bolesti. Ba ani na to nie, aby ste nepomreli. Mojou jedinou povinnosťou je, aby ste mohli každý deň pracovať. Proti takej svini budem svedčiť!
+<br>136
+<br>
+<br>Zmocnil sa ho pocit, že konečne, ako by to bolo cieľom všetkého, žije ako jeden z nepriateľov. Dom je plný Nemcov, takisto všetky domy v okolí a aj jeho dieťa nosí Nemka. Chybala mu vrava večierkov v ubytovni, vrčanie jeepov, americká hudba zo stanice Ozbrojených síl. Tu vládne ticho.
+<br>140
+<br>
+<br>Veci, ktoré robili Nemci, nerobili preto, že sú Nemci, ale preto, že sú ľudské bytosti. Povedal mi to otec. A potom mám sa dobre, žijem novým životom a krutosť k iným by mi tento svet otrávila.
+<br>149
+<br>#
+<br>
+<br>Moscovi sa rozlial v duši dokonalý mier, tichý odpočinok, akoby železný plot bol hradbou proti hluku, ruinám a prachu mesta.
+<br>161
+<br>
+<br>Bol v Luftwaffe. Keď vysypali z brúch tých svojich oblúd náklad toho svinstva, celé týždne zlé spávali.
+<br>161
+<br>
+<br>Príčiny Moscovho hnevu však boli hlbšie. Zachvátil ho strach, akoby boli naozaj Nemcami a on musel prijímať dobročinnosť a ponižovanie ako porazený.
+<br>178
 <br>

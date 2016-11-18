@@ -101,23 +101,45 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('261', 'Sprint', 'Jake Knapp', '', '261_sprint_view');
     append_book('260', 'Temná&nbsp;aréna', 'Mario Puzo', '', '260_puzo_temna_arena_view');
     append_book('259', 'Americký&nbsp;cisár', 'Martin Pollack', '', '259_americky_cisar_view');
+    append_book('254', 'Ogilvy on Advertising', '', '', '254_ogilvy_view');
     append_book('258', 'Dobrodružstvá Toma&nbsp;Sawyera', 'Mark Twain', '', '258_twain_tom_sawyer_view');
     append_book('257', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('256', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('255', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('254', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('253', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('252', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('251', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('250', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('249', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('248', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('247', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    append_book('246', 'Typografie', 'Eric Gill', '', '257_gill_typografie_view');
-    
-    
+    append_book('256', 'Strach', 'Jozef Karika', '', '256_karika_strach_view');
+    append_book('255', 'Poslední orebita', '1843', '', '255_posledni_orebita_view');
+    append_book('253', 'Čierna hra', 'Jozef Karika', '', '253_karika_cierna_hra_view');
+    append_book('252', 'Dobrodružstvá Marca Pola', '', '', '252_marco_polo_view');
+    append_book('251', 'Zelená kniha', 'Kadáfí', '', '251_kaddafi_view');
+    append_book('250', 'Umenie vojny', 'Sun Ci', '', '250_umenie_vojny_view');
+    append_book('249', 'Huckleberry Finch', 'Mark Twain', '', '249_huckleberry_finch_view');
+    append_book('248', 'Zväčša neškodná', 'Douglas Adams', '5', '248_stopar5_view');
+    append_book('247', 'Zbohom a ďakujeme za ryby', 'Douglas Adams', '4', '247_stopar4_view');
+    append_book('246', 'Život, vesmír a všetko', 'Douglas Adams', '3', '246_stopar3_view');
+    append_book('245', 'Reštaurácia na konci vesmíru', 'Douglas Adams', '2', '245_stopar2_view');
+    append_book('244', 'Stopárov sprievodca galaxiou', 'Douglas Adams', '1', '244_stopar1_view');
+    append_book('243', 'Uchopenie moci', 'Guido Knopp', '', '243_uchopenie_moci_view');
+    append_book('242', 'Šťastná pútnička', 'Mario Puzo', '', '242_stastna_putnicka_view');
+    append_book('241', 'Budhizmus', '', '', '241_budhizmus_view');
+    append_book('240', 'Válka s mloky', 'Karel Čapek', '', '240_valka_s_mloky_view');
+    append_book('239', 'Zbrane vplyvu', '', '', '239_zbrane_vplyvu_view');
+    append_book('238', 'Masarykove prejavy', '', '', '238_masarykove_prejavy_view');
+    append_book('237', 'Písně kosmické', 'Jan Neruda', '', '237_pisne_kosmicke_view');
+    append_book('236', 'Utrpenie mladého Werthera', 'W. A. Goethe', '', '236_werther_view');
+    append_book('235', 'Denník Anny Frankovej', '', '', '235_anna_frankova_view');
+    append_book('234', 'Čo Dante nevidel', 'Alfréd Wetzler', '', '234_wetzler_view');
+    append_book('233', 'Nero', '', '', '233_nero_view');
+    append_book('232', 'Mafia', 'V. P. Borovička', '', '232_vpborovicka_view');
+    append_book('231', 'Nový zákon', '', '', '231_novy_zakon_view');
+    append_book('230', 'Mafiánsky hrobár', 'Philip Carlo', '', '230_mafiansky_hrobar_view');
+    append_book('229', 'Na smrť', 'Jozef Karika', '', '229_karika_na_smrt2_view');
+    append_book('227', 'Smrť sa volá Engelchen', 'Ladislav Mňačko', '', '227_engelchen_view');
+    append_book('226', 'Jörgen Lykke,', 'posledný rytier Dánsky', '', '226_jorgen_lykke_view');
+    append_book('225', 'Gýč alebo umenie', '', '', '225_gyc_alebo_umenie_view');
+ 
+
+
     
     
     

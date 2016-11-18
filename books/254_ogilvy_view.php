@@ -27,5 +27,19 @@
 <br>Mozart said, I have never made the slightest effort to compose anything original.
 <br>24
 <br>
+The bigger agency grows, the more bureaucratic it becomes.
+<br>63
 <br>
+<br>Kreativity is not a function of size. Small (agency) can be beautiful.
+<br>64
 <br>
+<br>Ako si najať agenturu:
+<br>- nedeleguj výber to committee of pettyfoggers. They usually get it wrong.
+<br>- sleduj reklamy, sprav si zoznam reklám, na ktoré závidis, zisti si, kto ich robí.
+<br>- sprav si zoznam agentúr. Meet the head of each agency and his Creative Director. Make sure the chemistry between them is good. Happy marriages fructify, unhappy ones dont. Dont ask to meet working level people.
+<br>- ask what the agency charges. If it's 15 percent, insist on paying 16. The extra per cent will not kill you but will double agency's normal profit and you will get better service.
+<br>- whatever you do, dont haggle with agency's compensation. Poznám korporaciu, čo tieto veci dohaduje cez Purchase Department, ako keby predávali nábytok. Načo na to potrebujete právnikov a účtovníkov?
+<br>66
+<br>
+<br>Ak musíš ich prácu zamietnuť, rob to jemne and praise them to the skies when they perform well. They are the geese who can lay golden eggs. Inspire them to keep laying.
+<br>68

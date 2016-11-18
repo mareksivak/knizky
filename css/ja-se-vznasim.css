@@ -29,6 +29,22 @@
     opacity: 0.1;
 }
 
+#block261 {
+    font-family: "karmina-sans";
+    color: #00a3c2;
+}
+#block261 .primary {
+    font-weight: 600; 
+    font-style: italic;
+    text-transform: uppercase;
+}
+#block261 .secondary {
+    text-transform: uppercase;
+    font-weight: 600; 
+    font-style: italic;
+    color: #fdd12f;
+}
+
 #block260 {
     font-family: "canada-type-gibson";
     color: #336071;
@@ -87,20 +103,16 @@
 }
 
 #block256 {
-    background: #333;
-    color: #fff;
+    color: #333;
+}
+#block256 .primary {
+    font-weight: 600; 
 }
 #block256 .secondary {
-    opacity: 0.4;
+    color: #aaa;
 }
 #block256 .book-memos-wrapper {
-    color: #bbb;
-}
-#block256 .nav-arrow svg .vector {
-    fill: rgba(255,255,255, 0.4);
-}
-#block256 .nav-arrow:hover svg .vector {
-    fill: rgba(255,255,255, 0.8);
+    color: #aaa;
 }
 
 /* Orebita */
@@ -127,8 +139,7 @@
 }
 
 #block253 {
-    background: #000;
-    color: #ccc;
+    color: #000;
     font-family: "canada-type-gibson";
 }
 #block253 .primary {
@@ -171,8 +182,7 @@
 
 /* Umenie vojny */
 #block250 {
-    background: #222;
-    color: #ddd;
+    color: #222;
 }
 #block250 .secondary {
     color: #e62727;
@@ -185,39 +195,91 @@
 }
 
 #block249 {
-    background: #e07e7d;
     font-family: "canada-type-gibson";
-    color: #864545;
+    color: #e07e7d;
 }
 #block249 .primary {
     font-weight: 400;
-    color: #542020;
+    color: #e07e7d;
 }
 #block249 .secondary {
     font-weight: 600;
+    color: #864545;
 }
 
 #block248 {
-    background: #5e9eba;
+    color: #5e9eba;
+}
+#block248 .secondary {
+    color: #555;
+    font-family: "karmina-sans";
 }
 #block248 .tertiary {
     font-family: "abril-text";
+    color:#09464a;
+}
+#block248 .book-memos-wrapper {
+    font-family: "karmina-sans";
 }
 
 #block247 {
-    background: #5e9eba;
+    color: #5e9eba;
+}
+#block247 .secondary {
+    color: #555;
+    font-family: "karmina-sans";
+}
+#block247 .tertiary {
+    font-family: "abril-text";
+    color:#09464a;
+}
+#block247 .book-memos-wrapper {
+    font-family: "karmina-sans";
 }
 
 #block246 {
-    background: #5e9eba;
+    color: #5e9eba;
+}
+#block246 .secondary {
+    color: #555;
+    font-family: "karmina-sans";
+}
+#block246 .tertiary {
+    font-family: "abril-text";
+    color:#09464a;
+}
+#block246 .book-memos-wrapper {
+    font-family: "karmina-sans";
 }
 
 #block245 {
-    background: #5e9eba;
+    color: #5e9eba;
+}
+#block245 .secondary {
+    color: #555;
+    font-family: "karmina-sans";
+}
+#block245 .tertiary {
+    font-family: "abril-text";
+    color:#09464a;
+}
+#block245 .book-memos-wrapper {
+    font-family: "karmina-sans";
 }
 
 #block244 {
-    background: #5e9eba;
+    color: #5e9eba;
+}
+#block244 .secondary {
+    color: #555;
+    font-family: "karmina-sans";
+}
+#block244 .tertiary {
+    font-family: "abril-text";
+    color:#09464a;
+}
+#block244 .book-memos-wrapper {
+    font-family: "karmina-sans";
 }
 
 #block243 {
