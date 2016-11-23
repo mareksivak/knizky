@@ -26,7 +26,7 @@
     font-size: 10rem;
     left: 50%;
     transform:  translateX(-50%);
-    opacity: 0.1;
+    opacity: 0.15;
 }
 
 #block261 {
@@ -79,7 +79,7 @@
 #block258 {
     font-family: "canada-type-gibson";
     
-    color: rgb(23, 105, 255);
+    color: #779;
 }
 
 #block258 .primary {
@@ -209,77 +209,102 @@
 
 #block248 {
     color: #5e9eba;
+    font-family: "karmina-sans";
+    color: #333;
+}
+#block248 .primary {
+    font-style: italic;
+    color: #6047bb;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1;
 }
 #block248 .secondary {
-    color: #555;
-    font-family: "karmina-sans";
+    color: #333;
+    font-weight: 700;
 }
 #block248 .tertiary {
-    font-family: "abril-text";
-    color:#09464a;
-}
-#block248 .book-memos-wrapper {
-    font-family: "karmina-sans";
+    color:#949494;
 }
 
 #block247 {
     color: #5e9eba;
+    font-family: "karmina-sans";
+    color: #333;
+}
+#block247 .primary {
+    font-style: italic;
+    color: #329eff;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1;
 }
 #block247 .secondary {
-    color: #555;
-    font-family: "karmina-sans";
+    color: #333;
+    font-weight: 700;
 }
 #block247 .tertiary {
-    font-family: "abril-text";
-    color:#09464a;
-}
-#block247 .book-memos-wrapper {
-    font-family: "karmina-sans";
+    color:#949494;
 }
 
 #block246 {
     color: #5e9eba;
+    font-family: "karmina-sans";
+    color: #333;
+}
+#block246 .primary {
+    font-style: italic;
+    color: #caa31c;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1;
 }
 #block246 .secondary {
-    color: #555;
-    font-family: "karmina-sans";
+    color: #333;
+    font-weight: 700;
 }
 #block246 .tertiary {
-    font-family: "abril-text";
-    color:#09464a;
-}
-#block246 .book-memos-wrapper {
-    font-family: "karmina-sans";
+    color:#949494;
 }
 
 #block245 {
     color: #5e9eba;
+    font-family: "karmina-sans";
+    color: #333;
+}
+#block245 .primary {
+    font-style: italic;
+    color: #a1b848;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1;
 }
 #block245 .secondary {
-    color: #555;
-    font-family: "karmina-sans";
+    color: #333;
+    font-weight: 700;
 }
 #block245 .tertiary {
-    font-family: "abril-text";
-    color:#09464a;
-}
-#block245 .book-memos-wrapper {
-    font-family: "karmina-sans";
+    color:#949494;
 }
 
 #block244 {
     color: #5e9eba;
+    font-family: "karmina-sans";
+    color: #333;
+}
+#block244 .primary {
+    font-style: italic;
+    color: #d73c4f;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1;
 }
 #block244 .secondary {
-    color: #555;
-    font-family: "karmina-sans";
+    color: #333;
+    font-weight: 700;
 }
 #block244 .tertiary {
-    font-family: "abril-text";
-    color:#09464a;
-}
-#block244 .book-memos-wrapper {
-    font-family: "karmina-sans";
+    color:#949494;
 }
 
 #block243 {
@@ -305,15 +330,13 @@
 
 #block241 {
     background: #a0160e;
-    color: #fff;
+    color: #fbf5c6;
 }
 #block241 .book-memos-wrapper {
-    color: #a0160e;
-    background: #fff;
+    color: #fbf5c6;
 }
 
 #block240 {
-    645a51
     font-family: "canada-type-gibson";
     font-weight: 300;
 }
