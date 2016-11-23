@@ -12,11 +12,12 @@
 .block .primary
 {
      font-size: 2rem;
+    margin: 0 1rem;
 }
 .block .secondary
 {
-    
     font-size: 1.5rem;
+    margin: 0 1rem;
 }
 
 .block .tertiary
