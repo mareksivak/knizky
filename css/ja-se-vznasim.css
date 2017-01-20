@@ -34,11 +34,12 @@
     font-family: "canada-type-gibson";
 }
 #block265 .primary {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     color: #ef4130;
 }
 #block265 .secondary {
     color: #cec9c9;
+    font-size: 1rem;
 }
 #block265 .book-memos-wrapper {
     color: #ef4130;

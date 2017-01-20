@@ -13,6 +13,12 @@
     .nav-arrow {
         left: 2rem;
     }
+    #block265 .primary {
+        font-size: 2.5rem;
+    }
+    #block265 .secondary {
+        font-size: 1.5rem;
+    }
 }
 
 @media only screen and (min-width: 62rem)
