@@ -1,4 +1,4 @@
-<br>23. marca 188i zadržala policajná hliadka v dedinke Staré Stawy v západnej Haliči štyroch Slovákov. Staré Stawy ležia neďaleko Oswiečimu, po nemecky Auschwitzu, len pár kilometrov od hranice s Pruskom.
+<br>23. marca 1881 zadržala policajná hliadka v dedinke Staré Stawy v západnej Haliči štyroch Slovákov. Staré Stawy ležia neďaleko Oswiečimu, po nemecky Auschwitzu, len pár kilometrov od hranice s Pruskom.
 <br>7
 <br>
 <br>O Pavlovom odchode do Ameriky rozhodli rodičia, aby si zarobil doláre. Viacerí odchádzajú za more s plánom prežiť tam pár rokov a opäť sa vrátiť domov, za úspory si kúpiť pole, kus lesa, zvieratá, vyplatiť spoludedičov či dlhy, alebo vyrovnať nedoplatky na daniach.

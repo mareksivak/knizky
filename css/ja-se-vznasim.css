@@ -30,6 +30,67 @@
     opacity: 0.15;
 }
 
+#block265 {
+    font-family: "canada-type-gibson";
+}
+#block265 .primary {
+    font-size: 2.5rem;
+    color: #ef4130;
+}
+#block265 .secondary {
+    color: #cec9c9;
+}
+#block265 .book-memos-wrapper {
+    color: #ef4130;
+}
+
+#block264 {
+}
+#block264 .primary {
+    font-weight: 900;
+}
+#block264 .secondary {
+    font-weight: 900;
+    font-family: "canada-type-gibson";
+}
+#block264 .book-memos-wrapper {
+    color: #777;
+}
+
+#block263 {
+    color: #232323;
+}
+#block263 .primary {
+    font-weight: 900;
+    font-family: "canada-type-gibson";
+}
+#block263 .book-memos-wrapper {
+    font-family: "canada-type-gibson";
+}
+
+
+#block262 {
+}
+#block262 .primary span {
+    font-weight: 600;
+    font-family: "canada-type-gibson";
+    text-transform: uppercase;
+    background: #f9e22b;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+#block262 .secondary span {
+    font-weight: 600;
+    font-family: "canada-type-gibson";
+    text-transform: uppercase;
+    background: #f9e22b;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+}
+#block262 .book-memos-wrapper .book-memos {
+    background: #f9e22b;
+}
+
 #block261 {
     font-family: "karmina-sans";
     color: #00a3c2;

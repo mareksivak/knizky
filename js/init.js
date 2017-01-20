@@ -101,6 +101,10 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('265', 'Budúcnosť architektúry v 100 budovách', 'Marc Kushner', '', '265_ted_architektura_view');
+    append_book('264', 'Trhlina', 'Jozef Karika', '', '264_karika_trhlina_view');
+    append_book('263', 'Krycie meno BEŽEC', 'Peter Tóth', '', '263_bezec_view');
+    append_book('262', 'Vlastnou hlavou', 'Marek Vagovič', '', '262_vlastnou_hlavou_view');
     append_book('261', 'Sprint', 'Jake Knapp', '', '261_sprint_view');
     append_book('260', 'Temná&nbsp;aréna', 'Mario Puzo', '', '260_puzo_temna_arena_view');
     append_book('259', 'Americký&nbsp;cisár', 'Martin Pollack', '', '259_americky_cisar_view');
