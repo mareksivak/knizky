@@ -101,6 +101,10 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('269', 'Warhol', '', '', '269_warhol_view');
+    append_book('268', 'Hooked', 'Nir Eyal', '', '268_hooked_view');
+    append_book('267', 'Typography in magazines', '', '', '267_typography_in_magazines_view');
+    append_book('266', 'Tma', 'Jozef Karika', '', '266_karika_tma_view');
     append_book('265', 'Budúcnosť architektúry v 100 budovách', 'Marc Kushner', '', '265_ted_architektura_view');
     append_book('264', 'Trhlina', 'Jozef Karika', '', '264_karika_trhlina_view');
     append_book('263', 'Krycie meno BEŽEC', 'Peter Tóth', '', '263_bezec_view');

@@ -19,6 +19,12 @@
     #block265 .secondary {
         font-size: 1.5rem;
     }
+    #block267 .primary {
+        font-size: 2.5rem;
+    }
+    #block268 .secondary {
+        font-size: 1.5rem;
+    }
 }
 
 @media only screen and (min-width: 62rem)

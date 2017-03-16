@@ -23,11 +23,73 @@
 .block .tertiary
 {
     position: absolute;
-    top: -2rem;
-    font-size: 10rem;
+    top: 1.5rem;
+    font-size: 1.5rem;
     left: 50%;
     transform:  translateX(-50%);
-    opacity: 0.15;
+    opacity: 0.25;
+    color: #444!important;
+}
+
+
+
+#block269 {
+    font-weight: 200;
+    font-family: "canada-type-gibson";
+    color: #5f5a5a;
+}
+#block269 .primary {
+    color: #111;
+    font-family: "canada-type-gibson";
+    font-weight: 500;
+}
+
+#block268 {
+    font-family: "karmina-sans";
+    
+}
+#block268 .primary {
+    color: #009de2;
+    text-transform: uppercase;
+}
+#block268 .secondary {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+#block267 {
+    font-weight: 200;
+    font-family: "canada-type-gibson";
+    
+}
+#block267 .primary {
+    font-size: 1.5rem;
+    color: #bfa158;
+    text-transform: uppercase;
+    word-spacing: 0.3rem;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+}
+#block267 .primary span {
+    border-bottom: 2px solid;
+}
+#block267 .book-memos-wrapper {
+    font-family: "arno-pro-display";
+    font-size: 1.35rem;
+}
+    
+#block266 {
+}
+#block266 .primary {
+    font-weight: 900;
+}
+#block266 .secondary {
+    font-weight: 900;
+    font-family: "canada-type-gibson";
+}
+#block264 .book-memos-wrapper {
+    color: #777;
 }
 
 #block265 {
@@ -276,8 +338,7 @@
     color: #333;
 }
 #block248 .primary {
-    font-style: italic;
-    color: #6047bb;
+    color: #c9bcf9;
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 1;
@@ -287,7 +348,7 @@
     font-weight: 700;
 }
 #block248 .tertiary {
-    color:#949494;
+    color:#6047bb;
 }
 
 #block247 {
@@ -296,8 +357,7 @@
     color: #333;
 }
 #block247 .primary {
-    font-style: italic;
-    color: #329eff;
+    color: #aecae4;
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 1;
@@ -307,7 +367,7 @@
     font-weight: 700;
 }
 #block247 .tertiary {
-    color:#949494;
+    color:#329eff;
 }
 
 #block246 {
@@ -316,8 +376,7 @@
     color: #333;
 }
 #block246 .primary {
-    font-style: italic;
-    color: #caa31c;
+    color: #e0cb83;
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 1;
@@ -327,7 +386,7 @@
     font-weight: 700;
 }
 #block246 .tertiary {
-    color:#949494;
+    color:#caa31c;
 }
 
 #block245 {
@@ -336,8 +395,7 @@
     color: #333;
 }
 #block245 .primary {
-    font-style: italic;
-    color: #a1b848;
+    color: #b8c77d;
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 1;
@@ -347,7 +405,7 @@
     font-weight: 700;
 }
 #block245 .tertiary {
-    color:#949494;
+    color:#a1b848;
 }
 
 #block244 {
@@ -356,8 +414,7 @@
     color: #333;
 }
 #block244 .primary {
-    font-style: italic;
-    color: #d73c4f;
+    color: #e698a2;
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 1;
@@ -367,7 +424,7 @@
     font-weight: 700;
 }
 #block244 .tertiary {
-    color:#949494;
+    color:#d73c4f;
 }
 
 #block243 {

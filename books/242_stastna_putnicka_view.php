@@ -1,5 +1,5 @@
 <br>
-<br>Pravda bola taka, ze tieto vidiecanky ztalianskych horskych usadlosti,ktorych otcovia sa rodili a umierali v tych istych izbach, tieto zeny milovali kamenne mury velkomesta, svetla v dialke za riekou Hudson.
+<br>Pravda bola taka, ze tieto vidiecanky z talianskych horskych usadlosti, ktorych otcovia sa rodili a umierali v tych istych izbach, tieto zeny milovali kamenne mury velkomesta, svetla v dialke za riekou Hudson.
 <br>Vyslobodila ich odvaha. Stali sa pionierkami, dostali sa do nehostinnej krajiny, kde sa hovori neznamym jazykom a deti sa stali prislusnikmi inej rasy. To je cena, ktoru treba zaplatit.
 <br>14
 <br>
