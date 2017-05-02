@@ -1,11 +1,11 @@
 .block
 {
     width: 100%;
-   padding: 4rem 0; 
+   padding: 4rem 0;
     text-align: center;
     overflow-y: hidden;
     position: relative;
-    
+
     font-family: "abril-text";
 }
 
@@ -31,7 +31,39 @@
     color: #444!important;
 }
 
+#block272 {
+    font-family: "abril-text";
+    color: #7b8580;
+}
+#block272 .primary {
+    color: #e29440;
+    font-family: "canada-type-gibson";
+    font-weight: 600;
+    text-transform: uppercase;
+}
 
+#block271 {
+    font-family: "canada-type-gibson";
+    color: #cc4253;
+}
+#block271 .primary {
+    color: #cc4253;
+    font-family: "karmina-sans";
+}
+
+#block270 {
+    font-family: "karmina-sans";
+    color: #343e26;
+}
+#block270 .primary {
+    color: #c74543;
+    font-family: "canada-type-gibson";
+    font-weight: 600;
+}
+#block270 .secondary {
+    font-weight: 600;
+    font-family: "canada-type-gibson";
+}
 
 #block269 {
     font-weight: 200;
@@ -46,7 +78,7 @@
 
 #block268 {
     font-family: "karmina-sans";
-    
+
 }
 #block268 .primary {
     color: #009de2;
@@ -61,7 +93,7 @@
 #block267 {
     font-weight: 200;
     font-family: "canada-type-gibson";
-    
+
 }
 #block267 .primary {
     font-size: 1.5rem;
@@ -78,7 +110,7 @@
     font-family: "arno-pro-display";
     font-size: 1.35rem;
 }
-    
+
 #block266 {
 }
 #block266 .primary {
@@ -159,13 +191,13 @@
     color: #00a3c2;
 }
 #block261 .primary {
-    font-weight: 600; 
+    font-weight: 600;
     font-style: italic;
     text-transform: uppercase;
 }
 #block261 .secondary {
     text-transform: uppercase;
-    font-weight: 600; 
+    font-weight: 600;
     font-style: italic;
     color: #fdd12f;
 }
@@ -175,11 +207,11 @@
     color: #336071;
 }
 #block260 .primary {
-    font-weight: 600; 
+    font-weight: 600;
 }
 #block260 .secondary {
     text-transform: uppercase;
-    font-weight: 600; 
+    font-weight: 600;
     font-size: 1.25rem;
     color: #777;
 }
@@ -189,7 +221,7 @@
 }
 
 #block259 .primary {
-    font-weight: 600; 
+    font-weight: 600;
     color: rgb(176, 91, 88);
 }
 
@@ -203,12 +235,12 @@
 
 #block258 {
     font-family: "canada-type-gibson";
-    
+
     color: #779;
 }
 
 #block258 .primary {
-    font-weight: 600; 
+    font-weight: 600;
     color: #fd4e5f;
 }
 
@@ -231,7 +263,7 @@
     color: #333;
 }
 #block256 .primary {
-    font-weight: 600; 
+    font-weight: 600;
 }
 #block256 .secondary {
     color: #aaa;
@@ -282,7 +314,7 @@
     font-family: "karmina-sans";
 }
 #block252 .primary {
-    font-weight: 700;   
+    font-weight: 700;
 }
 #block252 .primary span {
     background: #f9e22b;
@@ -475,7 +507,6 @@
 
 #block237 {
     color: #645a51;
-    background: #f3f3f3;
 }
 #block237 .primary {
     font-family: "karmina-sans";
@@ -495,7 +526,7 @@
     font-size: 1.75rem;
 }
 #block236 .secondary {
-    
+
     font-weight: 600;
     text-transform: uppercase;
     font-size: 1rem;
@@ -620,7 +651,7 @@
     text-transform: uppercase;
     font-weight: 600;
     font-size: 1rem;
-    
+
 }
 
 #block225 {
@@ -632,5 +663,3 @@
     font-weight: 600;
     color: #ffbe00;
 }
-
-

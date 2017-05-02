@@ -26,12 +26,12 @@ function animate_fade_in(element) {
 
 // skryje knizky
 function animate_books_out(element, active) {
-   
+
     element.addClass("animated400 fadeOut");
     $('html, body').animate({
         scrollTop: $(".js-active").offset().top
     }, 200);
-    
+
     element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
        element.removeClass('animated400 fadeOut');
@@ -41,9 +41,9 @@ function animate_books_out(element, active) {
 }
 
 function animate_books_in(element) {
-    
+
     element.removeClass("js-hidden");
-    
+
     element.addClass("animated800 fadeIn");
     element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
@@ -54,11 +54,11 @@ function animate_books_in(element) {
 function show_book(block) {
     //var block = $(this);
     if (!areAnimationsFinished) return;
-    
+
     if (block.hasClass('js-collapsed'))
     {
-        
-        
+
+
         block.removeClass("js-collapsed");
         block.addClass('js-active');
 
@@ -101,6 +101,9 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('272', 'Color, Space and Style', '', '', '272_css_view');
+    append_book('271', 'Validating Product Ideas', '', '', '271_vpi_view');
+    append_book('270', 'Farská republika', 'Dominik Tatarka', '', '270_farska_republika_view');
     append_book('269', 'Warhol', '', '', '269_warhol_view');
     append_book('268', 'Hooked', 'Nir Eyal', '', '268_hooked_view');
     append_book('267', 'Typography in magazines', '', '', '267_typography_in_magazines_view');
@@ -145,47 +148,47 @@ function init_books() {
     append_book('227', 'Smrť sa volá Engelchen', 'Ladislav Mňačko', '', '227_engelchen_view');
     append_book('226', 'Jörgen Lykke,', 'posledný rytier Dánsky', '', '226_jorgen_lykke_view');
     append_book('225', 'Gýč alebo umenie', '', '', '225_gyc_alebo_umenie_view');
- 
 
 
-    
-    
-    
+
+
+
+
     $(".block").addClass("js-collapsed");
-    
-    $(".js-collapsed").click(function() 
+
+    $(".js-collapsed").click(function()
     {
       if (!anim_finished) return;
         show_book($(this));
-        
-    });			
+
+    });
 
 
     $(".nav-arrow").click(function() {
-        
+
         areAnimationsFinished = false;
-        
+
         var back = $(this);
         var parentBlock = back.parent();
         if (back.parent().hasClass("js-active")) {
-            
-            
+
+
             animate_books_in($(".block.js-collapsed"));
             $('html, body').animate({
                 scrollTop: $(".js-active").offset().top
             }, 100);
-            
+
             // TODO animate out
             parentBlock.find(".book-memos-wrapper").hide();
             back.hide();
-            
+
             parentBlock.removeClass('js-active');
-            
+
             parentBlock.click(function()
             {
                 show_book(parentBlock);
             });
-            
+
             parentBlock.addClass("js-collapsed");
         }
         setTimeout(function(){
@@ -194,6 +197,6 @@ function init_books() {
     });
     intro_anim();
 }
- 
-        
+
+
 init_books();
