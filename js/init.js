@@ -44,10 +44,10 @@ function animate_books_in(element) {
 
     element.removeClass("js-hidden");
 
-    element.addClass("animated200 fadeIn");
+    element.addClass("animated400 fadeIn");
     element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
-       element.removeClass('animated200 fadeIn');
+       element.removeClass('animated400 fadeIn');
     });
 }
 
