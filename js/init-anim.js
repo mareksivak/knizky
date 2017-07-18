@@ -1,5 +1,5 @@
 var MAX= 7;
-DELAY = 1000;
+DELAY = 200;
 
 
 var anim_finished = false;
