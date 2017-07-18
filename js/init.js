@@ -44,10 +44,10 @@ function animate_books_in(element) {
 
     element.removeClass("js-hidden");
 
-    element.addClass("animated400 fadeIn");
+    element.addClass("animated200 fadeIn");
     element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
-       element.removeClass('animated400 fadeIn');
+       element.removeClass('animated200 fadeIn');
     });
 }
 
@@ -196,7 +196,7 @@ function init_books() {
         }
         setTimeout(function(){
             areAnimationsFinished = true;
-        }, 1000);
+        }, 300);
     });
     intro_anim();
 }
