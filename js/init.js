@@ -17,24 +17,24 @@ var pageLoaded = false;
 function animate_fade_in(element) {
     //element.css("opacity", "0");
     element.show();
-    element.addClass("animated400 fadeIn");
+    element.addClass("animated200 fadeIn");
     element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
-       element.removeClass('animated400 fadeIn');
+       element.removeClass('animated200 fadeIn');
     });
 }
 
 // skryje knizky
 function animate_books_out(element, active) {
 
-    element.addClass("animated400 fadeOut");
+    element.addClass("animated200 fadeOut");
     $('html, body').animate({
         scrollTop: $(".js-active").offset().top
     }, 200);
 
     element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
-       element.removeClass('animated400 fadeOut');
+       element.removeClass('animated200 fadeOut');
         if (!element.hasClass('js-active')) element.addClass('js-hidden');
         window.scrollTo(0, 0);
     });
@@ -44,10 +44,10 @@ function animate_books_in(element) {
 
     element.removeClass("js-hidden");
 
-    element.addClass("animated800 fadeIn");
+    element.addClass("animated200 fadeIn");
     element.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
-       element.removeClass('animated800 fadeIn');
+       element.removeClass('animated200 fadeIn');
     });
 }
 
