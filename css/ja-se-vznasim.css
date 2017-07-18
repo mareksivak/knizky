@@ -31,6 +31,31 @@
     color: #444!important;
 }
 
+#block274 {
+    color: #232323;
+}
+#block274 .primary {
+    font-weight: 900;
+    font-family: "canada-type-gibson";
+}
+#block274 .book-memos-wrapper {
+    font-family: "canada-type-gibson";
+}
+
+#block273 {
+    color: #cc0a3d;
+    font-family: "canada-type-gibson";
+}
+#block273 .primary {
+    font-weight: 900;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 1.5rem;
+    word-spacing: 0.25rem;
+
+}
+
+
 #block272 {
     font-family: "abril-text";
     color: #7b8580;
@@ -327,14 +352,13 @@
 }
 
 #block251 {
+    color: #30a025;
     font-family: "canada-type-gibson";
 }
 #block251 .primary {
-    font-weight: 600;
-    color: #1de5a0;
+    font-weight: 500;
 }
 #block251 .book-memos-wrapper {
-    font-family: "karmina-sans";
 }
 
 /* Umenie vojny */

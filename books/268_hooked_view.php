@@ -142,4 +142,144 @@
 <br>2013. Twitter landing page - download app. Driving users to install the app leads to the highest rates of tepeat engagement.
 <br>84
 <br>
+<br>Scarity effect.
+<br>Pohár s 2 cookies vs pohár s 8. Ľudia si myslia, že iní vedia niečo, čo oni nie - že tie v prvom pohári sú lepšie.
+<br>Na amazone má skoro všetko label only x left. Naozaj najväčšiemu obchodu dochádzajú zásoby všetkého alebo chcú len using the scarity heuristic to influence buying behavior.
+<br>87
+<br>
+<br>The anchoring effect
+<br>People often anchor to one piece of information when making a decision.
+<br>Zľavy buy 4, get 1 free. Môžu mať tovar bez akcie, ktorý je kvalitnejší a výhodnejší, napr 5 pack s lepšou cenou.
+<br>89
+<br>
+<br>The endowed progress effect
+<br>A phenomenon that increases mltivation as people believe they are nearing the goal.
+<br>Rozdávali kartičky na pečiatky. Buď 10 s dvomi vyplnenými alebo 8 a prázdnych. Prvá mala o 82 percent higher completion rate.
+<br>90
+<br>
+<br>B. J. Fogg's Behavior Model:
+<br>- For any behavior to occur, a trigger must be present at the same time as the user has sufficient motivation to take action.
+<br>- every behavior is driven by one of the three Core Motivators: seeking pleasure and avoiding pain, seeking hope and avoiding fear, social acceptance while avoiding social rejection.
+<br>- ability is influenced by the 6 factors of time, money, physical effort, brain cycles (too confusing), social deviance (outside the norm), and non-routineness (too new).
+<br>92
+<br>#
+<br>
+<br>The study revealed that what draws to act is not the sensation we receive from the reward itself, but the need to alleviate the craving for tgat reward.
+<br>97
+<br>
+<br>Our brains are adapted to seek rewards that makes us feel accepted, attractive, important, and included.
+<br>100
+<br>
+<br>Rewards of the Tribe.
+<br>Stack Overflow.
+<br>Many of responses provide detailed, highly-technical and time consuming answers. But why do people spend so much time doing all this work for free? What motivates them?
+<br>It works because software engineers find satisfaction in contributing to community they care about.
+<br>Rewards confer special value by representing how much someone has contributed to his tribe. 
+<br>104
+<br>
+<br>Only by understanding what truly matters to users can a company correctly match the right variable reward to their intended behavior.
+<br>Pri Q&A payouty nie sú motivátorom. Prichádzajú nepravidelne a v malých množstvách. Quora si uvedomila, že ľuďom ide o social impact and recognition.
+<br>118
+<br>
+<br>Gamification.
+<br>- nie je to niečo, čo pasuje každému
+<br>- when there's a mismatch between the customer's problem and company's assumed solution, no amoit of gamification will help
+<br>- if user has no interest in product offered, no ongoing itch at all, gamification will fail
+<br>- gamification rewards are not magic fairy dust that instantly makes products attractive.
+<br>- rewards must be aligned with narrative why is lroduct used and align with triggers and motivations.
+<br>118
+<br>#
+<br>
+<br>What is the right reward to the inteded behavior of users?
+<br>119
+<br>
+<br>Leverage familiar behaviors users "want to" instead of "have to".
+<br>122
+<br>#
+<br>
+<br>It's easy to see how they get someone hooked. Fitocracy is first and foremost an online community. 
+<br>The ritual of connecting with like-minded people existed long before and company leverages this behavior by making it easier and more rewarding to share encouragement, change advice and receive praise. 
+<br>In fact, a study revealed that social factors were the most important reasons people used the service and recommended to others.
+<br>123
+<br>
+<br>Make new tools and features available in your app as people develop their habits.
+<br>123
+<br>
+<br>Companies fail because they don't make their services enjoyable, often ask users to learn new, unfamiliar actions instead of making old routines easier.
+<br>124
+<br>
+<br>To change behavior, products must ensure the users feel control - people must want to use the service, not feel they have to.
+<br>125
+<br>#
+<br>
+<br>As we step into the character's shoes we experience his or her motivations - includinch search for rewards of the tribe. We emphasise because they are driven by the same things that drive us.
+<br>126
+<br>
+<br>Finite experience - an experience that becomes predictable after use.
+<br>These experiences become less engaging.
+<br>Games played for completion offer finite variability, while those played with other people have higher degree of maintaining user interest by sustaining variability.
+<br>World of Warcraft - hard to predict begavior of other people - 10M players after 8 years.
+<br>Dribbble, YouTube, Facebook, Twitter - user generated content, always something new.
+<br>129
+<br>#
+<br>
+<br>Ak produkt prináša stále niečo nové napr user generated content, unpredictability, bude pre ľudí zaujímavý.
+<br>
+<br>Ani platforms for user generated conted to nemajú vyhraté. Správanie ľudí sa mení a ak sa nebudú aj oni, tak príde niečo, čo im rozumie lepšie.
+<br>130
+<br>
+<br>---
+<br>- Open ended interview with customers - to identify what they find enjoyable about your product? Are there any moments of delight or surprise? Is there anything they find particulary satisfying?
+<br>133
+<br>#
+<br>
+<br>- Review the steps your customer takes to use your product habitually. What outcome (reward) alleviate's the user's pain? Is the reward fulfilling? Does it user wanting more?
+<br>133
+<br>#
+<br>
+<br>Rewards:
+<br>- rewards of the tribe - gratification from others
+<br>- rewards from the hunt - goods, money, information
+<br>- rewards of the self - mastery, completion, competency.
+<br>133
+<br>#
+<br>
+<br>---
+<br>
+<br>Strong Value.
+<br>The stored value users put into tge product increases the likehood they will use it again.
+<br>Following somebody increases the value you'll come later to chech the feed.
+<br>Adding a song to playlist streghtens connection to the service.
+<br>145
+<br>
+<br>Collection of memories and experiences becomes more valuable over time and service becomes harder to leave.
+<br>146
+<br>
+<br>Investing in tge right people increases tge value of the product by displaying relevan and interesting content. It also tells service about its users what in turn improves service overall.
+<br>149
+<br>
+<br>---
+<br>
+<br>Review your flow. What bit of work are your users doing to invrease their likehood of returning?
+<br>
+<br>Brainstorm how to add  small investments to your product:
+<br>- Load next trigger (feeds, tinder)
+<br>- store value as data, content, followers, teputation (ebay, airbnb), skill (photoshop).
+<br>
+<br>Idebtify how long it takes for loaded trigger to rearrange users. How can you reduce the delay to shorteb time spent?
+<br>162
+<br>---
+<br>
+<br>First, define what it means to be a devoted user. How often should I use it?
+<br>195
+<br>
+<br>As he used existimg solutions he recognized a desperacy in what tgey offered and the solution he needed. He identified where steps could be removed from existing products he used and built a simpler way to get job done.
+<br>200
+<br>
+<br>Sir William Henry Pence, the chief engineer of British post office: The Americans have need of telephone, but we do not. We have a plenty of messenger boys.
+<br>
+<br>1911, Ferdinand Foch, the future commander in chief of Allied forces in WWI: Airplanes are interesting toys but of no military value.
+<br>
+<br>1995, Clifford Stove, Newsweek: The Internet? Blah! - The truth is no online database will replace your daily newspapers. We'll soon buy books and newspapers straight over the Internet. Uh, sure.
+<br>202
 <br>

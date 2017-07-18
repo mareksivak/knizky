@@ -18,8 +18,8 @@
             $book = array('id' => 'block258', 'primary' => 'Dobrodružstvá Toma&nbsp;Sawyera', 'secondary' => 'Mark Twain', 'tertiary' => '', 'view' => '258_twain_tom_sawyer_view');
             $this->load->view('book_template_view', $book);
         
-            $book2 = array('id' => 'block257', 'primary' => 'Typografie', 'secondary' => 'Eric Gill', 'tertiary' => '', 'view' => '257_gill_typografie_view');
-            $this->load->view('book_template_view', $book2);
+            $book = array('id' => 'block257', 'primary' => 'Typografie', 'secondary' => 'Eric Gill', 'tertiary' => '', 'view' => '257_gill_typografie_view');
+            $this->load->view('book_template_view', $book);
         
             $book = array('id' => 'block256', 'primary' => 'Strach', 'secondary' => 'Jozef Karika', 'tertiary' => '', 'view' => '256_karika_strach_view');
             $this->load->view('book_template_view', $book);

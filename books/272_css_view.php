@@ -8,7 +8,7 @@
 <br>Podobná kompozícia ako zlatý rez. Použité v Bibliothèque Ste. Geneviève, Paríž.
 <br>83
 <br>
-<br>Kitchen is the most difficult sapce in house to design because appliances , equipment, working surfaces, and storage spaces must ve carefully organized into a visually coherent and functional whole.
+<br>Kitchen is the most difficult sapce in house to design because appliances , equipment, working surfaces, and storage spaces must ve carefully organized into a visually coherent and functional whole. 
 <br>Fundamental to kitchen planning is the placement of 3 elements: fridge, sink and stove, which define the preparation zone, the washing zone, and the cooking zone. Together, the zones define the pointsof the "working triangle".
 <br>92
 <br>
@@ -29,11 +29,42 @@
 <br>#
 <br>
 <br>Lighting: low-level mood lighting is typical for fine lighting. Bright lighting offers casual dining experience.
-<br>Restaurants can change lighting to suggest different moods.
+<br>Restaurants can change lighting to suggest different moods. 
 <br>Fluorescent lighting is more energy efficient and might be appropriate in the kitchen areas.
 <br>111
 <br>
 <br>Acoustics: go hand-in-hand with the concept. To control acoustics in the environment use sound-absorptive matherials. Carpet on thefloor, fabric paneling on the walls.
 <br>111
+<br>
+<br>Colors.
+<br>The application and mixing of colir has long bren an intense area of stufy of scientists, artists, and designers. At the same time, color can be an extremely subjrctive topic. Everyone has their favorite colors - color remind tgem a place or time, that have specofic emotivr qualities.
+<br>136
+<br>#
+<br>
+<br>Fundmentals.
+<br>Color is the result of the way in which an objects absorbs or reflects the visible light in tge color spectrum.
+<br>An objects that perceives as red absorbs every colot except red which it reflects.
+<br>136
+<br>#
+<br>
+<br>Farebné spektrum sú viditeľné farby medzi infrared anf ultraviolet. Teda v poradí od červenej, žltej, zelenej, modrej, po fialovú.
+<br>136
+<br>
+<br>Color and Material.
+<br>Materials have qualities of absorption, reflectance and luminance that the abstract systems of color do not take into account. 
+<br>The proportional use of material in 3D space also affects how color is experienced. 
+<br>Through the complex interaction of color and material, an interior designer can create atmospheres of intimacy or freshness, vibrancy or muteness, or affect other senses such as sight and hearing.
+<br>140
+<br>
+<br>Adolph Loos's aphorism: Don't paint concrete gray, or wood brown.
+<br>140
+<br>
+<br>Color and space. 
+<br>When used with knowledge and intent, color can add perceived weight to surfaces, alter the basic proportions of the room, and variously be a calming or exciting factor.
+<br>150
+<br>Pozrieť príklady
+<br>
+<br>Painting all aspects of room (celú izbu) can be effective in making small spaces appear larger or more intimate.
+<br>150
 <br>
 <br>

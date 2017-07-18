@@ -101,11 +101,14 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('273', 'Designing Products People Love', '', '', '273_designing_products_view');
+    append_book('274', 'Komando 52', 'Peter Tóth', '', '274_komando52_view');
+    append_book('268', 'Hooked', 'Nir Eyal', '', '268_hooked_view');
+    append_book('251', 'Zelená kniha', 'Kadáfí', '', '251_kaddafi_view');
     append_book('272', 'Color, Space and Style', '', '', '272_css_view');
     append_book('271', 'Validating Product Ideas', '', '', '271_vpi_view');
     append_book('270', 'Farská republika', 'Dominik Tatarka', '', '270_farska_republika_view');
     append_book('269', 'Warhol', '', '', '269_warhol_view');
-    append_book('268', 'Hooked', 'Nir Eyal', '', '268_hooked_view');
     append_book('267', 'Typography in magazines', '', '', '267_typography_in_magazines_view');
     append_book('266', 'Tma', 'Jozef Karika', '', '266_karika_tma_view');
     append_book('265', 'Budúcnosť architektúry v 100 budovách', 'Marc Kushner', '', '265_ted_architektura_view');
@@ -122,7 +125,7 @@ function init_books() {
     append_book('255', 'Poslední orebita', '1843', '', '255_posledni_orebita_view');
     append_book('253', 'Čierna hra', 'Jozef Karika', '', '253_karika_cierna_hra_view');
     append_book('252', 'Dobrodružstvá Marca Pola', '', '', '252_marco_polo_view');
-    append_book('251', 'Zelená kniha', 'Kadáfí', '', '251_kaddafi_view');
+    
     append_book('250', 'Umenie vojny', 'Sun Ci', '', '250_umenie_vojny_view');
     append_book('249', 'Huckleberry Finch', 'Mark Twain', '', '249_huckleberry_finch_view');
     append_book('248', 'Zväčša neškodná', 'Douglas Adams', '5', '248_stopar5_view');

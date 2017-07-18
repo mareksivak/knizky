@@ -1,4 +1,3 @@
-
 <br>I love uniforms! Because if there's nothing there, clothes are certainly not going to make the man. It's better to always wear the same thing and know that people are liking you for the real you and not the you your clothes make.
 <br>12
 <br>
@@ -14,8 +13,8 @@
 <br>The subculture, pop, stuperstars, drugs, lights, discothèques. There was always party somewhere. People were always getting dressed up for a party. All Tommorow's Parties was the name of a song the Velvets used to do at the Dom when the Lower East Side was beginning to shake off its immigrant status and get hip. What costumes shall the poor girl wear/To all tomorrow's parties.
 <br>25
 <br>
-<br>Všetko bolo extravagantné. Musel si byť bohatý, aby si si dovolil pop clothes z butikov alebo od designerov ako Tiger Morse. Tiger vedela kúpiť kostým za 2 doláre, odtrhnúť mašľu a vo svojom obchode predať za 400.
-<br>Rovnako aj s accessories. Len niečo prišilaa predala to za 50.
+<br>Všetko bolo extravagantné. Musel si byť bohatý, aby si si dovolil pop clothes z butikov alebo od designerov ako Tiger Morse. Tiger vedela kúpiť kostým za 2 doláre, odtrhnúť mašľu a vo svojom obchode predať za 400. 
+<br>Rovnako aj s accessories. Len niečo prišilaa predala to za 50. 
 <br>Mala talent rozoznať, či si niekto chce niečo kúpiť. Jednej bohato vyzerajúcej pani hneď povedala, že pre ňu nemá nič, čo by ju mohlo zaijímať.
 <br>25
 <br>
@@ -34,7 +33,7 @@
 <br>V dnešnej dobe si musíš dávať pozor, aké šaty si kupuješ, inak si kúpiš junk a ešte veľa zaplatíš.
 <br>If you see a well-dressed person today, you know they've tjought a lot about their clothes and how they look.
 <br>52
-<br>
+<br> 
 <br>Ak vidíš niekoho, kto vyzerá presne ako tvoj vysnený ideál, srejme to nie je tvoj ideál (fantasy), ale niekto, kto sa nevzdal snov a išiel do obchodu a kúpil si veci, ktoré on a ty máte tak radi.
 <br>Just think about all those JamesDeans and what it means.
 <br>53
@@ -66,7 +65,7 @@
 <br>Movie stars get millions of dollars for nothing, so when someone asks them to do something for nothing, they go crazy - they think that if they're going to talk to somebody at grocery store they should get 50 dolars an hour.
 <br>86
 <br>
-<br>You should always have a priloduct that's not just "you". An actress should count up her plays, a model should count up her phoyltographs, an artist should count up his pictures, so you always know exactly what you're worth.
+<br>You should always have a priloduct that's not just "you". An actress should count up her plays, a model should count up her phoyltographs, an artist should count up his pictures, so you always know exactly what you're worth. 
 <br>86
 <br>
 <br>Being good in business is the most fascinating kind of art.
@@ -206,6 +205,12 @@
 <br>
 <br>Ľudia v Amerike upratujú tak, aby ich dom bol not-dirty. Ľudia v Európe upratujú tak, aby ich dom bol čistý.
 <br>
+<br>My favorite thing to buy is underwear. I think buying underwear is the most personal thing you can do. You'd rather watch somebody buy underwear than read a book they wrote.
+<br>229
 <br>
+<br>I hate when you find a product you like that fits a particular need of yours, and they change it. "Improve" it. I hate "new, improved" anything. I think they should just make a compeletely new product instead and leave the old one alone. The way there yould be two products to choose from, instead of half an old one.
+<br>233
 <br>
+<br>No, I won't return them. I never return anything. That's worse than not buying.
+<br>236
 <br>
