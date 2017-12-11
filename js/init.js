@@ -101,7 +101,7 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
-    append_book('276', 'Mom\'s Test, '', '', '276_moms_test_view');
+    append_book('276', 'The Mom Test', '', '', '276_moms_test_view');
     append_book('275', 'Intercom on Starting up', '', '', '275_intercom_view');
     append_book('273', 'Designing Products People Love', '', '', '273_designing_products_view');
     append_book('274', 'Komando 52', 'Peter Tóth', '', '274_komando52_view');

@@ -1,5 +1,4 @@
-Mom's Test
-<br>
+
 <br>- How much does it cost?
 <br>Ask: How much does the problem cost them? How much do they currently pay to solve it? How big is the budget they’ve allocated?
 <br>

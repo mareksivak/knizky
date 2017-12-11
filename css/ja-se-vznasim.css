@@ -31,6 +31,27 @@
     color: #444!important;
 }
 
+#block276 {
+    font-family: "canada-type-gibson";
+    color: #f10479;
+}
+#block276 .primary {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+#block276 .book-memos-wrapper{
+    font-size: 15px!important;
+}
+
+#block275 {
+    color: #0342bc;
+    font-family: "karmina-sans";
+}
+#block275 .book-memos-wrapper{
+    font-size: 14px;
+    color: #ff6e73;
+}
+
 #block274 {
     color: #232323;
 }
@@ -54,7 +75,6 @@
     word-spacing: 0.25rem;
 
 }
-
 
 #block272 {
     font-family: "abril-text";

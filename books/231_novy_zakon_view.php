@@ -378,6 +378,188 @@
 <br>9 a povedal mi: Dosť ti je moja milosť. Lebo moja moc sa dokonáva v slabosti. Teda najradšej sa budem chváliť svojimi slabosťami, aby prebývala na mne moc Kristova.
 <br>2 ep. sv. Pavla Korintanom 12
 <br>
+13 Milosť Pána Ježiša Krista, Božia láska a spoločenstvo Svätého Ducha nech je s vami všetkými!
+<br>2. ep. sv. Pavla Korinťanom 13
+<br>
+<br>11 Oblečte sa do plnej Božej výzbroje, aby ste mohli obstáť proti úkladom diabla.12Veď náš boj nie je proti krvi a telu, ale proti kniežatstvám, mocnostiam, vládcom tohto temného sveta a nadzemským duchom zla.13Preto si vezmite Božiu výzbroj, aby ste mohli v ten deň zla odolať a tým, že všetko prekonáte, obstáť.14Stojte teda! Bedrá si prepášte pravdou, oblečte si pancier spravodlivosti15a obujte si na nohy pohotovosť na ohlasovanie evanjelia pokoja.16Nadovšetko uchopte štít viery, ktorým môžete uhasiť všetky ohnivé šípy toho Zlého.17Vezmite si aj prilbu spásy a meč Ducha, ktorým je Božie slovo.
+<br>Efezanom 6
+<br>
+<br>7 Chcú byť učiteľmi zákona, ale nechápu ani čo hovoria, ani čo tak presvedčivo tvrdia.
+<br>Prvý Timotejovi 1
+<br>
+<br>11 Žena nech prijíma poučenie v tichosti so všetkou podriadenosťou.
+<br>12 Žene však nedovoľujem učiť, ani vládnuť nad mužom, ale nech si počína v tichosti.
+<br>Prvý Timotejovi 2
+<br>
+<br>13 Adam bol totiž stvorený ako prvý, potom Eva.
+<br>14 A nie Adam bol zvedený, ale žena sa dala zviesť a dopustila sa hriechu.
+<br>15 Bude však spasená tým, že rodí deti, ak zotrvajú vo viere, láske, svätosti a zdržanlivosti.
+<br>Prvý Timotejovi 2
+<br>
+<br>8 Ale keď máme pokrm a odev, s tým sa spokojíme.
+<br>Prvý Timotejovi 6
+<br>
+<br>16 Vyznávajú, že znajú Boha, ale skutkami ho zapierajú ohavní súc a neposlušní, k niktorému dobrému skutku nedokázaní.
+<br>Ep. sv. Pavla Títovi 1
+<br>
+<br>33 ktorí si vierou podmaňovali kráľovstvá, vykonávali spravodlivosť a dosahovali prisľúbenia, levom zapchávali tlamy,
+<br>34 uhášali silu ohňa, unikali ostriu meča a zo slabých stávali sa mocnými, keď zmužneli v boji a zaháňali šíky cudzincov.
+<br>Židom 11
+<br>
+<br>37 Kameňovali ich, rozpiľovali, umierali pod mečom, chodili v ovčích a kozích kožiach, trpeli núdzu, útlak a príkorie.
+<br>Židom 11
+<br>
+<br>4 Manželstvo nech majú všetci v úcte a manželské lôžko nech je nepoškvrnené, lebo smilníkov a cudzoložníkov bude súdiť sám Boh.
+<br>Židom 13
+<br>
+<br>5 Vaše správanie nech neovláda láska k peniazom; buďte spokojní s tým, čo máte. Veď Boh povedal:Nezanechám ťa, ani ťa neopustím.
+<br>Židom 13
+<br>
+<br>5 Bratia moji milovaní, počúvajte: Azda Boh nevyvolil tých, čo sú podľa sveta chudobní, aby sa stali bohatými vo viere a dedičmi kráľovstva, prisľúbeného tým, čo ho milujú?6 Avšak vy ste chudobného znevážili. Vari vás práve bohatí neutláčajú a nevláčia pred súdy?
+<br>Jakubov 2
+<br>
+<br>13 Bez milosrdenstva čaká súd na toho, kto nepreukázal milosrdenstvo. Milosrdenstvo však víťazí nad súdom.
+<br>Jakubov 2
+<br>
+<br>13 A teraz vy, ktorí hovoríte: Dnes alebo zajtra pôjdeme do toho a toho mesta, pobudneme tam rok a budeme obchodovať a zarábať —
+<br>14 vy predsa neviete, čo bude zajtra s vaším životom. Veď ste para, ktorá sa na chvíľu ukáže a potom mizne.
+<br>15 Namiesto toho by ste mali povedať: Ak bude Pán chcieť, budeme žiť a vykonáme to alebo ono!
+<br>Jakubov 4
+<br>
+<br>2 Ste žiadostiví, ale nemáte; vraždíte a závidíte, ale nemôžete nič dosiahnuť; bijete sa a bojujete, ale nič nemáte, lebo neprosíte;
+<br>3 prosíte, ale nedostávate, lebo prosíte zle; chcete to premárniť podľa svojich zlých žiadostí
+<br>Jakubov 4
+<br>
+<br>2 Vaše bohatstvo zhnilo a vaše rúcha rozožrali mole,
+<br>Jakubov 5
+<br>
+<br>3 vaše zlato a striebro zhrdzavelo a ich hrdza bude na svedectvo proti vám a bude žrať vaše telá ako oheň. Nahromadili ste pokladov za posledné dni.
+<br>4 Hľa, práca robotníkov, ktorí žali vaše polia, zadržaná kričí od vás, a volanie žencov prišlo do uší Pána zástupov.
+<br>Jakubov 5
+<br>
+<br>5 Na zemi ste hodovali a hýrili. Vykŕmili ste si srdcia ako v deň zabíjačky.
+<br>Jakubov 5
+<br>
+<br>9 Nežalujte, bratia, na seba navzájom, aby ste neboli odsúdení. Hľa, sudca stojí predo dvermi!
+<br>Jakubov 5
+<br>
+<br>13 Trpí niekto medzi vami? Nech sa modlí! Raduje sa niekto? Nech spieva žalmy!
+<br>Jakubov 5
+<br>
+<br>17 Eliáš bol človek, ktorý trpel podobným ako my, a modlil sa horlivo, žeby nepršalo, a nepršalo na zemi tri roky a šesť mesiacov.
+<br>18 A zase sa modlil a nebo dalo dážď a zem vydala svoju úrodu.
+<br>Jakubov 5
+<br>
+<br>8 Nevideli ste ho, a predsa ho milujete. Ani teraz ho nevidíte, ale veríte v neho a radujete sa nevýslovnou radosťou, plnou slávy,
+<br>9 že dosahujete cieľ svojej viery — spásu duší.
+<br>Prvý Petrov 1
+<br>
+<br>6 Veď v Písme je napísané: Hľa, kladiem na Sione kameň, uholný, vyvolený, vzácny; kto verí v neho, nebude zahanbený.
+<br>7 Pre vás, veriacich je vzácny, ale pre neveriacich je to kameň, čo stavitelia zavrhli; ten sa stal kameňom uholným
+<br>Prvý Petrov 2
+<br>
+<br>8 a kameňom úrazu i skalou pohoršenia. Oni sa oň potkýnajú, lebo nepočúvajú slovo — na to boli aj určení.
+<br>Prvý Petrov 2
+<br>
+<br>13 A tak buďte poddaní každému ľudskému stvoreniu pre Pána, buďto kráľovi, jako najvyššiemu,
+<br>14 buďto vladárom, ako ním posielaným na pomstu zle činiacich a na chválu dobre činiacich.
+<br>Prvý Petrov 2
+<br>
+<br>16 Jako slobodní, a nie ako takí, ktorí majú slobodu za zásteru zlosti, ale jako sluhovia Boží.
+<br>Prvý Petrov 2
+<br>
+<br>17 Všetkých uctite, bratstvo milujte, Boha sa bojte, kráľa ctite.
+<br>Prvý Petrov 2
+<br>
+<br>2 Paste stádo Božie, ktoré je medzi vami, dozerajúc nie z prinútenia, radi, ani nie pre mrzký zisk, ale ochotne!
+<br>Prvý Petrov 5
+<br>
+<br>8 Buďte triezvi, bdejte, lebo váš protivník, diabol, obchádza jako revúci lev a hľadá, koho by zožral.
+<br>Prvý Petrov 5
+<br>
+<br>13 Pozdravuje vás spoluvyvolená cirkev v Babylone, aj Marek, môj syn.
+<br>Prvý Petrov 5
+<br>
+<br>22 Kto je klamár, ak nie ten, čo popiera, že Ježiš je Kristus? Antikrist je ten, kto popiera Otca i Syna.
+<br>Prvý Jánov 2
+<br>
+<br>Ak niekto hovorí: Milujem Boha a nenávidí svojho brata, je klamár. Veď kto nemiluje svojho brata, ktorého vidí, nie je schopný milovať Boha, ktorého nevidí.
+<br>Prvý Jánov 2
+<br>#
+<br>
+<br>10 V Pánov deň som bol vo vytržení ducha a počul som za sebou mohutný zvuk ako hlas poľnice,
+<br>11 ktorý hovoril: Čo vidíš, napíš do knihy a pošli siedmim cirkvám: do Efezu, Smyrny, Pergama, Tyatír, Sárd, Filadelfie a do Laodicey.
+<br>Zjavenie Jána 1
+<br>
+<br>12 Obrátil som sa, aby som pozoroval hlas, ktorý ku mne hovoril. A keď som sa obrátil, videl som sedem zlatých svietnikov
+<br>13 a uprostred svietnikov akoby Syna človeka, oblečeného do dlhého rúcha a cez prsia prepásaného zlatým pásom.
+<br>14 Hlavu a vlasy mal biele ako biela vlna, ako sneh, a oči ako plameň ohňa.
+<br>15 Nohy mal podobné lesklému kovu rozžeravenému v peci, jeho hlas bol ako hučanie mnohých vôd.
+<br>16 V pravej ruke mal sedem hviezd, z jeho úst vychádzal ostrý dvojsečný meč a jeho tvár bola, ako keď slnko svieti v plnej sile.
+<br>17 Keď som ho uvidel, padol som mu k nohám ako mŕtvy. On položil na mňa pravicu a povedal: Neboj sa! Ja som Prvý a Posledný
+<br>18 a Živý. Bol som mŕtvy a hľa, žijem na veky vekov a mám kľúče smrti a podsvetia. 19 Napíš teda, čo si videl, čo je a čo sa stane potom.
+<br>Zjavenie Jána 1
+<br>
+<br>16 Kajaj sa teda! Inak čoskoro prídem za tebou a budem bojovať proti nim mečom svojich úst.
+<br>Zjavenie Jána 2
+<br>
+<br>21 Dal som jej čas, aby sa kajala, ale ona sa zo svojho smilstva kajať nechce.
+<br>22 Hľa, vrhám ju na lôžko bolesti a tých, čo s ňou cudzoložia, vrhám do veľkého súženia, ak sa nebudú kajať za jej skutky.
+<br>23 Jej deti zahubím smrťou a všetky cirkvi spoznajú, že ja som ten, čo skúma vnútro i srdcia, a každému z vás odplatím podľa jeho skutkov.
+<br>Zjavenie Jána 2
+<br>
+<br>26 Tomu, kto zvíťazí a až do konca zachová moje skutky, tomu dám vládu nad národmi,
+<br>27 bude nad nimi vládnuť železnou berlou a rozbije ich ako hlinené nádoby
+<br>Zjavenie Jána 2
+<br>
+<br>2 Prebuď sa a posilňuj čo ostalo, a malo umrieť. Lebo tvoje skutky nepokladám za dostatočné pred svojím Bohom.
+<br>Zjavenie Jána 3
+<br>
+<br>4 Ale v Sardách máš niekoľko ľudí, čo si nepoškvrnili rúcho. Tí budú chodiť so mnou v bielom, lebo sú toho hodní.
+<br>Zjavenie Jána 3
+<br>
+<br>7 Anjelovi cirkvi vo Filadelfii napíš: Toto hovorí Svätý, Pravdivý, ktorý má Dávidov kľúč, ktorý otvára tak, že nikto nezatvorí, a zatvára tak, že nikto neotvorí.
+<br>Zjavenie Jána 3
+<br>
+<br>19 Ja všetkých, ktorých milujem, napomínam a prísne vychovávam. Buď teda horlivý a kajaj sa!
+<br>Zjavenie Jána 3
+<br>
+<br>20 Hľa, stojím pri dverách a klopem. Ak niekto počuje môj hlas a otvorí dvere, vojdem k nemu a budem stolovať s ním a on so mnou.
+<br>Zjavenie Jána 3
+<br>
+<br>13 nebeské hviezdy padali na zem, ako keď figovník zmietaný veľkým vetrom zhadzuje svoje nezrelé zimné plody.
+<br>Zjavenie Jána 6
+<br>
+<br>10 Zatrúbil tretí anjel: z neba spadla veľká hviezda, ktorá horela sťa fakľa. Padla na tretinu riek a na pramene vôd.
+<br>11 Tá hviezda sa volá Palina. Tretina vôd sa zmenila na palinu a mnoho ľudí pomrelo od vôd, lebo zhorkli.
+<br>Zjavenie Jána 8
+<br>
+<br>13 Potom som videl a počul orla, ako letí stredom neba a volá mohutným hlasom: Beda, beda, beda tým, čo bývajú na zemi, až zaznejú poľnice troch anjelov, ktorí ešte netrúbili.
+<br>Zjavenie Jána 8
+<br>
+<br>8 Vlasy mali podobné ženským vlasom a ich zuby boli sťa zuby levov.
+<br>9 Mali akoby železné panciere a zvuk ich krídel bol ako hrmot mnohých konských vozov rútiacich sa do boja.
+<br>Zjavenie Jána 9
+<br>
+<br>17 Vo videní som videl kone a jazdcov na nich: mali ohnivé, hyacintové a sírovožlté panciere, hlavy koní boli sťa hlavy levov a z ich tlám vystupoval oheň, dym a síra.
+<br>Zjavenie Jána 9
+<br>
+<br>21 A nekajali sa ani za svoje vraždy, ani za čarovanie, ani za smilstvo, ani za krádeže.
+<br>Zjavemie Jána 9
+<br>
+<br>6 Oni majú moc zavrieť nebo, aby v dňoch ich prorokovania nepršalo. Majú moc premeniť vody na krv a trápiť zem všelijakými pohromami, kedykoľvek to budú chcieť.
+<br>Zjavenie Jána 11
+<br>
+<br>4 Jeho chvost zmietol tretinu nebeských hviezd a zhodil ich na zem. Drak sa postavil pred ženu, ktorá mala rodiť, aby zožral jej dieťa, len čo ho porodí.
+<br>5 A porodila syna, chlapca, ktorý má železnou berlou vládnuť nad všetkými národmi. Jej dieťa však bolo uchvátené k Bohu a k jeho trónu.
+<br>6 Žena utiekla na púšť, kde jej Boh pripravil miesto, aby ju tam živili tisícdvestošesťdesiatdní.
+<br>7 Na nebi sa strhol boj. Michal a jeho anjeli bojovali proti drakovi; aj drak a jeho anjeli bojovali.
+<br>8 No neobstáli a nebolo už pre nich miesto v nebi.
+<br>9 Veľký drak, starý had, ktorý sa volá diabol a satan, zvodca celého sveta, bol zvrhnutý na zem a s ním boli zvrhnutí aj jeho anjeli.
+<br>Zjavenie Jána 12
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
