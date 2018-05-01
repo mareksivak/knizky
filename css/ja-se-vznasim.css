@@ -31,6 +31,42 @@
     color: #444!important;
 }
 
+#block283 {
+    color: #333;
+}
+#block283 .primary {
+    color: #e01919;
+}
+
+#block282 {
+    color: #fe4333;
+    font-family: "canada-type-gibson";
+}
+#block282 .primary {
+    font-weight: 900;
+    text-transform: uppercase;
+    font-style: italic;
+    word-spacing: 0.25rem;
+
+}
+
+#block281, #block279 {
+    font-family: "canada-type-gibson";
+    
+}
+#block281 .primary, #block279 .primary {
+    font-weight: 600;
+}
+
+
+#block280 {
+    font-family: "canada-type-gibson";
+    color: #652585;
+}
+#block280 .primary {
+    text-transform: uppercase;
+}
+
 #block276 {
     font-family: "canada-type-gibson";
     color: #f10479;
@@ -156,16 +192,16 @@
     font-size: 1.35rem;
 }
 
-#block266 {
+#block266, #block278 {
 }
-#block266 .primary {
+#block266 .primary, #block278 .primary {
     font-weight: 900;
 }
-#block266 .secondary {
+#block266 .secondary, #block278 .secondary {
     font-weight: 900;
     font-family: "canada-type-gibson";
 }
-#block264 .book-memos-wrapper {
+#block266 .book-memos-wrapper, #block278 .book-memos-wrapper {
     color: #777;
 }
 

@@ -104,7 +104,7 @@ function init_books() {
     append_book('283', 'Game Theory', '', '', '283_game_theory_view');
     append_book('282', 'Shoe Dog', '', '', '282_shoe_dog_view');
     append_book('281', 'Design as Art', '', '', '281_design_as_art_view');
-    append_book('280', 'V zajatí geografie', '', '', '280_v_zajati_geografie_view');
+    append_book('280', 'V zajatí geografie', 'Tim Marshall', '', '280_v_zajati_geografie_view');
     append_book('279', 'The Language of Cities', '', '', '279_cities_view');
     append_book('278', 'Čierny rok', 'Jozef Karika', '', '278_karika_cierny_rok_view');
     append_book('276', 'The Mom Test', '', '', '276_moms_test_view');
