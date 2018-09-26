@@ -285,7 +285,147 @@
 <br>333
 <br>#
 <br>
+
+
+<br>----
+<br>
+<br>Online auctions - ebay - best timing is to bid before auction ends. Entering too early can increase interest of another players.
+<br>
+<br>Negotiations - your position is stronger if you initiate them before deadline critical for all (other pllayer)
+<br>
+<br>Give credible threat if your loses are smaller than potential gains.
+<br>
+<br>Actions speak louder than words.
+<br>Key to commitment is to reduce the threat to make it credible - strike
+<br>345
+<br>
+<br>Bargaining - If you have power to make a proposal and oyher player can accept or reject, you are in stronger position.
+<br>351
+<br>
+<br>Time is money. A dollar received today is worth more than the same dollar received later - it can be invested and earn interest or dividends in the meantime.
+<br>354
+<br>
+<br>Voting.
+<br>Problrm - vote for the most preferred candidate or strategically for the most viable candidate?
+<br>359
+<br>
+<br>Teória hier sa venuje aj voľbám a hlasovaniu. Podľa nej je hlas jednotlivca zbytočný. Dôležitý je len vtedy, ak rozhoduje voľby - pivotal voter.
+<br>
+<br>Ciže ak môj hlas nerozhoduje, môžem voliť podľa presvedčenia a sympatií. Ale ak rozhoduje, treba voliť strategicky.
+<br>
+<br>Podobná analógia: pravdu je možné bezproblémovo hovoriť len vtedy, ak na nej nezáleží.
+<br>
+<br>Remarkable and troubling - if competitive votes are taken (court sentence), any of the outcomes is possible based solely on the on the order ib which votes are taken.
+<br>- if Congress has to choose between competitive bills, ihe order of voting can have influence on final outcome.
+<br>- if decision from multiple options is made, the order of options to consider matters.
+<br>368
+<br>#
+<br>
+<br>Median voter.
+<br>- takes intensity and direction of preferences into account.
+<br>- Harold Hotelling observation: political parties will converge to median voter position.
+<br>- to find the median point, a candidate should start at 0 and keep moving right as lomg as as a majority supports the change. At median point, the support fir rightward move is equal as the number of viters whoprefer shift left.
+<br>371
+<br>
+<br>Finding voters preferences.
+<br>Find centres of gravity / average points - guarantee significant votes even in normal distribution of voters.
+<br>377
+<br>
+<br>Same issue arise
+<br>At first glance, having no incentive
+<br>Meets thr standard
+<br>
+<br>Startegic rearranging of priorities / disort one's preferences - quite common
+<br>- by acting first, one player makes a move that makes others change their priorities - if both players
+<br>- when you solves someone elses problems so they have to look for new ones / put secondary priorities higher
+<br>- distributing funds. Approve uninportant expenditures first, ask for more funds for priorities later
+<br>- you might be willing to gain at the expenese of puttong something in the risk, if you know someone will bear the cost of the rescue
+<br>- you have an incentive to exeggerate your request and take advantage of the other's preferences
+<br>382
+<br>
+<br>Incentives.
+<br>Any organisation or System will collapse if workers have poor incentives - eg to be rewarded adequately. (Communist 5 Year Plans - they pretended to pay us, we pretended to work).
+<br>Market economy - incentive is profit.
+<br>386
+<br>
+<br>To give incentives:
+<br>- pay per milestones, not per project
+<br>- waiters: tips
+<br>- if reward is poorly related to the effort, incentive is low
+<br>
+<br>Employer wants to keep the payment to worker as low as possible to increase his profit.
+<br>He may seek for people with poor alternatives.
+<br>393
+<br>
+<br>Substitutes and complements
+<br>Substitute tasks - doingone task makes me less concentrated/focused/motivated for another
+<br>Complements - doing one task makes me better in another
+<br>Airports to stay effective should manage all functions by themseves to serve passangers and stay competitive (transport, shopping, security checks,...)
+<br>399
+<br>
+<br>To motivate workers:
+<br>- to improve their self image and give them sense of autonomy -> to care about job and success of organisation (in innovation, creativity, health, nonprofit)
+<br>- salary ans career
+<br>401
+<br>#
+<br>
+<br>Think ahead
+<br>Imterests ate opposed
+<br>
+<br>Someone whi prefers low paid (eg academic) jobinstead of lucrative one can be genuinely interested. But also more likely wants to do that profesionallt (acqdemic) and is more strongly motivated - career
+<br>401
+<br>
+<br>You should pay high rewards or none. Paying a little might leadto the worst of all outcomes (underpaid, demotivated)
+<br>- paid by answers
+<br>401
+<br>
+<br>When you can't observe the quality of effort, base reward on something you can observe (milestones).
+<br>- more workers working on similar tasks - if one fails while others are succeeding - shirker or unlucky - rewards based on collective performance are suitable.
+<br>
+<br>W Gretzky - Skate where puck will be, not where it is.
+<br>411
+<br>###
+<br>
+<br>Small fish may do better by passing on their firat chance to become stars:
+<br>- elections:
+<br>- large number of candidates, leader faces attacks from all the medium-sized fish. Better to step into game after others knock eack other out
+<br>- a weak player who threathens no one may end up surviving if the stronger players kill each other off.
+<br>421
+<br>#
+<br>
+<br>Teória hier sa pokúša vysvetliť motivácie vojakov bojujúcich v konfliktoch. Z pohľadu jednotlivca, riziká účasti v boji prevyšujú možné zisky. Keby takto kalkulovali všetci vojaci, vštky armády by sa rozpadli. Čo vojakov robí disciplivovaných a ochotných nasadiť život?
+<br>- príprava. Od prvého momentu čelia ponižovaniu a šikane. Správne je len to, čo povie nadriadený - od toho, aká úloha sa vykoná, aký je trest za zlyhanie, až po banálne veci ako sú správne zložené ponožky, či ustlaná posteľ. Fyzickým a mentálnym tlakom zmeniť osobnosť vojaka. Výsledkom toho sa vojak naučí bez odporu prijímať rozkazy a jeho nasadenie je automatické. Príprava z neho robí poslušný stroj na boj.
+<br>- príprava zároveň vytvorí putá medzi vojakmi a spáli mosty s predošlým životom. Ak to chce vojak vzdať, berie do úvahy aj to, ako to zapôsobí na vojakov okolo neho.
+<br>- materiálne odmeny. Medaily, odmeny. Jemu a rodine, aj v prípade, že v boji padne.
+<br>- nemateriálne odmeny. Úcta, ocenenie, sláva.
+<br>
+<br>King - vie, ze vojaci sa boja o svoj život, vedia, že pre nepriateľa má vyššiu cenu dostať ho živého.
+<br>Ako motivovať?
+<br>Instead of 
+<br>"Hey guys, I heard some of you think you're risking your lives, but I am not. I want to ensure I am risking too"
+<br>Say
+<br>"Who's risking his life with me?" -> interprests I will not die next to him. He's going to shed his blood with me
+<br>## art of strategy.
+<br>421
+<br>
+<br>An established firm wants to convince newcomers that business is not profitable for them.
+<br>Installing capacity in exxcess of the needs of current production gives credibility to threat. When such capacity is in place, it can be expanded more quickly at less extra cost.
+<br>A price war can be fought more cheaply, easily and more credibly.
+<br>- deploying troops
+<br>- marking territory
+<br>436
+<br>
+<br>Slippery steep example.
+<br>- Bidding game, winner gets a dollar, but first and second highest bid have to be paid
+<br>- If first is 0.20 and 0.10, winner gets 0.80, the second one pays 0.10.
+<br>- If bids are 1.60 and 1.20, winner loses 0.60
+<br>- better is to not even start.
+<br>
+<br>Real estate agent.
+<br>- if commision for agent is 2.5 per cent, at price 250k,  agent has has no motivation to work on better price - payment structure produces weak incentives
+<br>- 270k translates to just 600 more commission
+<br>- non-linear scheme: pay 2.5 per cent for the first 200k, and 20 per cent for everything above
+<br>- where is the treshold? If you think agen can fetch 300k, you'd suggest 250k. Agent can be more conservative and argue 250k is the market price and kick in 200k
+<br>455
 <br>
 <br>
-<br>--
-<br>307 - (fixed typos, append new ones, not replace)
