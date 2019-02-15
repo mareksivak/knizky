@@ -559,6 +559,45 @@
 <br>Zjavenie Jána 12
 <br>
 <br>
+<br>11 Potom som videl inú šelmu vystupovať zo zeme. Mala dva rohy podobné 
+<br>13 Robí veľké znamenia, takže aj oheň zostupuje z neba na zem pred zrakmi ľudí.15 Dostala moc dať ducha do obrazu šelmy, aby tak obraz šelmy aj hovoril, aj pôsobil, aby boli usmrtení všetci, čo sa nebudú klaňať obrazu šelmy.
+<br>18 V tomto je múdrosť: Kto má rozum, nech spočíta číslo šelmy, lebo je to číslo človeka. Jeho číslo je šesťstošesťdesiatšesť.
+<br>Zjavenie Jána 13
+<br>666
+<br>
+<br>1 Potom som pozrel, a hľa, Baránok stál na vrchu Sion a s ním stoštyridsaťštyritisíc tých, čo mali na čele napísané jeho meno a meno jeho Otca.
+<br>3 Spievali novú pieseň pred trónom, pred štyrmi bytosťami a pred staršími. Ale nikto sa nemohol naučiť tú pieseň, iba stoštyridsaťštyritisíc vykúpených zo zeme.4 To sú tí, čo sa nepoškvrnili so ženami, lebo sú panici. Tí nasledujú Baránka, kamkoľvek ide. Tí boli vykúpení spomedzi ľudí ako prvotina Bohu a Baránkovi.
+<br>5 V ich ústach sa nenašla lož; sú bez poškvrny.
+<br>Zjavenie Jána 14
+<br>
+<br>8 Za ním nasledoval iný, druhý anjel, ktorý volal: Padol, padol ten veľký Babylon, ktorý opájal všetky národy vínom vášne svojho smilstva.
+<br>Zjavenie Jána 14
+<br>
+<br>9 Po nich nasledoval iný, tretí anjel, ktorý mohutným hlasom volal: Ak sa niekto bude klaňať šelme a jej obrazu a prijme znak na svoje čelo alebo na ruku,
+<br>10 aj ten bude piť z vína Božieho hnevu, nezriedeného, naliateho do kalicha jeho hnevu, a bude mučený ohňom a sírou pred svätými anjelmi a pred Baránkom.
+<br>11 Dym ich múk vystupuje na veky vekov a nemajú odpočinku vo dne ani v noci tí, ktorí sa klaňajú šelme a jej obrazu, ani ten, kto prijme znak jej mena.
+<br>Zjavenie Jána 14
+<br>
+<br>15 A z chrámu vyšiel iný anjel a volal mohutným hlasom na toho, čo sedel na oblaku: Vrhni svoj kosák a žni, lebo nadišla hodina žatvy a úroda zeme dozrela.
+<br>16 A ten, čo sedel na oblaku, hodil svoj kosák na zem a zem bola zožatá.
+<br>Zjavenie Jána 14
+<br>##
+<br>
+<br>8 Štvrtý (anjel) vylial svoju čašu na slnko: a bola mu daná moc páliť ľudí ohňom.
+<br>9 Ľudí spaľovala veľká horúčava a oni sa rúhali menu Boha, ktorý má moc nad týmito ranami, no nekajali sa, aby mu vzdali slávu.
+<br>Zjavenie Jána 16
+<br>
+<br>17Siedmy vylial svoju čašu na vzduch. A z chrámu od trónu vyšiel mohutný hlas, ktorý hovoril: Stalo sa!
+<br>18 Nasledovali blesky, zvuky, hromy a veľké zemetrasenie, akého nebolo odvtedy, čo je človek na zemi — také veľké bolo zemetrasenie.
+<br>19 A veľké mesto sa rozpadlo na tri časti a mestá národov padli. Boh si spomenul na veľký Babylon, aby mu dal kalich vína svojho rozhorčeného hnevu.
+<br>20 Všetky ostrovy zmizli a ani vrchov už nebolo.
+<br>21 Z neba padali na ľudí veľké krúpy ťažké ako centy. Ľudia sa rúhali Bohu pre ranu krupobitia, lebo táto rana bola veľmi veľká.
+<br>Zjavenie Jána 16
+<br> - proroctva o konci sveta
+<br>^
+<br>Anjeli s kalichmi z božím hnevom, každý vyleje svoju cašu na zem, posledna siedma rana bude fatálna.
+<br>
+<br>
 <br>
 <br>
 <br>

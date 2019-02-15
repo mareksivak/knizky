@@ -418,5 +418,273 @@
 <br>Without me aski g he offered to reduce rent alittle. I said I needed more and offered afigure, he accepted without a word.
 <br>176
 <br>
+
+<br>Electric company department, working on pole repair, received a lot of interest.
+<br>Photographer taking photos of engineers.
+<br>- I see you're interested in the operation.
+<br>- Yes, my mother is too. She owns stock in your company. Newspaper might like it too.
+<br>Explained this was first jib fir his department of its kind, executives weere interested. Assured, under normal conditions his men would handle the job.
+<br>Photographer tookaway camera, thanked for explaining tge situation. Friendly approach saved much bad publicity.
+<br>178
+<br>
+<br>Owner of a new car, already repaired for 3 times.
+<br>Met manager. I bought this car because of recommendations of friends. Prices competitive, service outstanding. 
+<br>I explained priblem I was having with service department. I thought you might be aware of any situation that may tarnish yourfine reputation.
+<br>He got involved personally and lent me his car.
+<br>180
+<br>
+<br>---
+<br>
+<br>Don't begin discussion with things on which you differ. Begin by emphasizing the things on which you agree.
+<br>If possible, keep emphasizing thatyou're striving for the same end, and the only difference is in the method , not in the purpose.
+<br>182
+<br>###
+<br>
+<br>If you say NO, its more than two characters. Your organism - muscular, nervous - gathers itself to condition of rejection.
+<br>- gwt someone to say NO in the beginning, abd it takes patience to take it inti an affirmative
+<br>183
+<br>
+<br>Socrates, 24centuries ago developed a Socratic method - he asked questions with which his opponent would have to agree. He kept on asking until finally, almost without realising that, his opponents found themselves emvracing a conclusion they would have denied a few minutes previously.
+<br>188
+<br>#
+<br>
+<br>Teenager disobeying mother. Mother scolds her for thousandth time, being weak from that asks: why Laurie? 
+<br>- Do you really want to know? 
+<br>I had never listened to her. When she wanted to share her ideas Iinterruptedwith orders. She needed me, but not as a bossy mother.
+<br>192
+<br>
+<br>--
+<br>
+<br>How to get cooperation
+<br>
+<br>Try tomake suggestions and let others think of conclusion.
+<br>Insetad of ramming options down tge throats of others?
+<br>No one likes they are told to do antrhing or sold something. We much prefer to feel we're buyngof our own accord or acting on our own ideas.
+<br>- independence, starbrucks
+<br>- 24hr, cancelling Seoul race.
+<br>197
+<br>
+<br>Fashion designer. Client never bought his sketches.
+<br>Once:
+<br>I want you to do a little favor if you will. Here are some uncompleted sketches. Wont you please tell me how we could finish them up in such way tajt you could use them?
+<br>Finished according buyer's ideas. All accepted.
+<br>For years I urged him to buywhat I tuought he should have.
+<br>-
+<br>### This made him feel he was creating designs.
+<br>197
+<br>
+<br># invite to cooperation to give ownership
+<br>Hospital building Xray department. Overwhelmed by sales reps, each praising their own equipment.
+<br>One manufacturer was more skillful. He knew more about handling human nature than others.
+<br>- we recently completed a new line. Just received first shipment. They are not perfect, we know that. We wamt to improve them. We should be obligated if you could find time to look over them and give us your ideas about how to make them more servicable to your profession.
+<br>- I was both surprised and complimented. I never had xray manufacturer seeking for advice. It made me feel important.
+<br>I was busy but i cancelled appoinent in orfer to look over. The more i studied it, the more I liked it.
+<br>Nobody tried to sell it to me. I felt the idea of buying was my own.
+<br>###f,
+<br>200
+<br>
+<br>Advisor of president Wilson learned the beat way to convert him for idea was to plant it in his mind casually, but to get him thinking about it on his own account. Discovered a way to influence him by chance. Once discussed together a policy he appeared to disapprove. A few days later on different occasion, he was talking of his suggestion as his own.
+<br>I wanted results, I didnt care about credits.
+<br>201 
+<br>
+<br>Woman 6 weeks late with payment. Received a nasty call from company. Couldnt settle it as they requested.
+<br>- I looked at the situation from their point of view. I apologized for caising inconvenience. I remarked I must be his most troublesome customer.
+<br>- his tone of voice changed. We agreed on partial payments.
+<br>208
+<br>#
+<br>
+<br>Three-fourths of the people you meet are hungering for sympathy. Give it to them and they will love you.
+<br>People who come to you irritated, unreasoningdeserve a very little discredit for being who they are. Feel sorry for them. Sympathize with them.
+<br>211
+<br>#
+<br>
+<br>Insults.
+<br>As I read a nasty letter full of hateness I told myself: thank God, I am not married to that woman.
+<br>- most folks would roll their sleeves and started arguing. - even for tiny inaccuracies
+<br>- I controlled myself. Any hoyltheaded fool would do that. 
+<br>- be above fools
+<br>- after all, if I were she, why whould feel just as she does?
+<br>- return kimdness for insult (thank you for letter, you're right)
+<br>211
+<br>#
+<br>
+<br>Hi Rick, we know you re busy and you want to keep shutdown time to minimum.
+<br>We understand yoilur convmcern and we want to do everything to accomodate you.
+<br>
+<br>Piano teacher - a girl with long fingernails. Knew they are important to her.
+<br>After first sessions - you have attractive hands and beautiful fingernails. If you want to play piano as well as you'te capable of, you would be sirprised how quicker and easier it would be if you trim your nails shorter. Just think obout it, ok?
+<br>217
+<br>
+<br>Sol Hudok worked with world-class artists. 
+<br>One of the temramental opera stars once called him: Sol, my throat is terrible. I can't sing tonight.
+<br>Mr. Hudok didn't agree. Instead, he replied with spathy: What a pity! Of course, you cannot sing. I will cancel the performance. It will cost you a couple of thousand dollars, but that's nothing in compatison to your reputaton.
+<br>The artist replied: perhaps you had better come later in the day.
+<br>Later the basso co sent to sing.
+<br>People crave for spayhy. They show their bruises, relate their accidents and illnesses. To win people to your way of thinki g, be sympathetic. 
+<br>218
+<br>
+<br>Appralto nobler motives.
+<br>Tenant threatening to leave.
+<br>Mr. Doe, I listened your story and I still dont believe you intend to move.
+<br>Years in renting business have taught me something about human nature and I sized You up as aman of your world. In fact, im not sire i want to take a gamble.
+<br>Here's my proposition - think over your decision for a few days. If you come back I will accept your decisionas final. I will priviledge you to leave and admit to myself I was wrong in judgement. But I still believe you're man of your word and will live up to your contract.
+<br>Later he paid rent for next mi nth and said they taled it over with wife and decided to stay.
+<br>222
+<br>#
+<br>
+<br>If you want the best people working for you but cant afford pay them as others,  appeal to their nobler motives .
+<br>223
+<br>
+<br>If you have no information about the customer, assume they'resincere, homest and truthful.
+<br>Oeople will react favorably if you make them feel you consider them homest and fair.
+<br>225
+<br>
+<br>---
+<br>
+<br>Charles Schwab.
+<br>The way to get things done is to stimulate competition. Not in money-getting way but in DESIRE TO EXCEL.
+<br>- create a challenge
+<br>- how is it that a manager as capable as you can't make this mill turn out what it should?
+<br>--
+<br>- all men have fears, but the brave put their fears and go forward, sometimes to death, but always to victory.
+<br>#
+<br>
+<br>To get attention or be taken seriously, do what popiticians or TV do: dramatize your ideas.
+<br>##
+<br>234
+<br>
+<br>Frederic Herzberg, one of the greatest behavior scientists studied work attitudes of thousands people from factory workers to senior executives.
+<br>The most motivating factor was work itself. If work was exciting, the worker was motivated to do a good job. It's a chance for self-expression. To prove your worth. This is what makes the desire to excel. The desire for feeling of importance.
+<br>236 
+<br>
+<br>Critisism - if comes with praise, replace BUT with AND. But strains credibility of praise.
+<br>We are proud of you for raising your grades. But if you worjed harder on algebra,the results would have been better.
+<br>We're proud of you for raising your grades AND if you keep continuing the same efforts, your algebfa will be up with all the others.
+<br>251
+<br>##
+<br>
+<br>Effective way to correct mistakes is to call attention to people's mistakes indirectly.
+<br>- smoking on forbidden place. Offer cigar, but smoje it outside 
+<br>(not mention a problem)
+<br>- army: gentlemen, you are leaders. You will be most effective jf you lead by example. You must be tge example people want to follow. Ylu know what army regulations say about haircuts. I'm going to get my hair cut today, althought its still shorter than some of yours. Look at yourself in tye mirror, if you feel you need a haiecut to be a good example, we'll arange a time to visit barbershop.
+<br>(give them authority to take the action)
+<br>252
+<br>--
+<br>24 Hour Race. Seoul Race needs to be cancelled. HQ never tells local directors to to that. They guide them through facts so they realise that and suggest by themselves.
+<br>If thry dont get it or are shy to speak about it aloud, guide them closer - eg cancellation would be a way.
+<br>---
+<br>
+<br>To critisize as a leader, talk about your mistakes first.
+<br>- people have different viewpoint and judgemnt with their experience, but maybe they're better than you were
+<br>...
+<br>- "i had made even worse mistakes than you, dont you think it would be wiser to..."
+<br>- "this doesnt look good, ialways have hadtroubles with that. People judge us by..."
+<br>256
+<br>#
+<br>
+<br>-
+<br>
+<br>Instead of giving orders give sugggestions
+<br>Do might comsider this.
+<br>Do you think this could work?
+<br>- He always had people opportunity to to things themselves and let them learn from their mistakes
+<br>- giving ownership makes it easy for person to correct errors
+<br>- gives feeling of importance
+<br>260
+<br>##
+<br>
+<br>Factory owner, working on large order. Instead of pushing people to accelerate his work he called everybody together. Explain the situation and told how much it would mean for company and for them to produce on time.
+<br>He asked:
+<br>- is there anything we can do to handle this?
+<br>- can anyone think of different ways to process it?
+<br>They came with many ideas and madethe order in time.
+<br>262
+<br>
+<br>Effective leader asks questions instead of giving orders.
+<br>262
+<br>
+<br>Company, seasonal jobs, firing people with tact: you have done a fine job. You managed....We want you to know that the firm is proud of you. We believe in you and dont want you to forget it.
+<br>- people don't feel let down
+<br>- know we would keepthem on
+<br>- will come to us again when we need them.
+<br>265
+<br>#
+<br>
+<br>Supervisor emmbarassingly scolded by boss in meeting. 
+<br>Any working relationship was destroyed in a few brief moments. He was a good worker. Left the company and started a new job in competitor where he kelt dping a good work.
+<br>
+<br>Real leaders will always let others to save their face.
+<br>- even if someone is wrong, causing to lose face will destroy their ego.
+<br>- insteadhe thankwd me for my work. It wasnt unusual for a person to make mistakes on a new project. In front of everyone he said he knew I had done the best. Lack of experience, not lack of ability  was a reason for failure.
+<br>266
+<br>#
+<br>
+<br>We decided to praise students instead of harping them for faults. Wasnt easy when we saw all the negative things they were doing. Was tough to find things to prasise. After a few days some of the faults began to disappear. All of this was result of praising for small improvements.
+<br>People treat their pets for doing something good, why not humans?
+<br>272
+<br>
+<br>He didn't just flatter and say You're good. He specifically pointed out how his work was superior. 
+<br>Because he singled out specific accomplishment, his praise became much more meaningful.
+<br>273
+<br>#
+<br>
+<br>To improve a person
+<br>Good worker makes a poor job recently.
+<br>You have worjed here for years. We've had a number of compliments about your good work. Yet,  of latw, the time you need ti accomplish each job is increasing and your work hasnt been up to your old standards.
+<br>Beacuse you have been such outstanding in past, I felt you would want to know i am not happy with this situation. Perhaps,we could find a way to correct this.
+<br>275
+<br>
+<br>Rejected sales rep.
+<br>Jack, since I left this morning I realized I hadnt give you entire picture of our product line. I would appreciate some of ypur time to tell you about points I have omitted. I have respected the fact that you're always willing to listen big enough to change your mind when the facts warrant the change.
+<br>278
+<br>##
+<br>Bring up reputation
+<br>
+<br>Bridgit, I see you seldom, I thought I'd take time to thank you forthe fine job you've been doing. Btw I thought I would mention that since 2 hours a week is a limited amount of time, please freeto work an extra hour from time to timeif yoy feel you need to do those once-in-a-while things like polishing cups and  the like. Of course, I will pay you for theextra time.
+<br>278
+<br>#
+<br>
+<br>Make fault seem easy to correct
+<br>286
+<br>
+<br>Always let theither person happy about doing what you suggest.
+<br>Let them have a finger in the pie.
+<br>289
+<br>##
+<br>
+<br>Napoleon was called childish when he created the League of Honor and distributed 15 thousand crosses to his soldiers and made 18 of his generals Marshals of France and called his troops the Grand army.
+<br>Napoleon was criticized for giving toys.
+<br>He replied Men are ruled by toys.
+<br>Technique of giving titles and authority worked for him and can for any leader.
+<br>290
+<br>#
+<br>
+<br>Mrs Gent lived in Scarsdale, New York was troubled by boys.
+<br>Boys running across and destroying law.
+<br>The owner tried everything to stop them. Nothing worked. 
+<br>She tried giving the worst sinner a title and feeling of authority. She made him her Detective and put him in charge of keeping trespassers off her lawn.
+<br>That solved her problem. Her detective stopped anyone from stepping on the lawn.
+<br>291
+<br>
+<br>When you make a request, express benefits:
+<br>John, we have an urgent job. I am bringing customers tomorrow. I will show them stockroom, but it's in poor shape. If you can clean it out it would make us look effecient and you will do your part to provide a company a good image.
+<br>292
+<br>
+<br>Family happiness: never criticize
+<br>-
+<br>William Gladstone, Britism PM. When he came down for breakfast in the morning and saw that the rest of the family is sleeping, he had a gentle way of registering a reproach.
+<br>He raised his voice and filled the house with mysterious chant that reminded the other members that England's busiest man is waiting downstairs for breakfast, alone.
+<br>Diplomatic, considerate.
+<br>- 
+<br>Catherine the Great ruled one of the largest empires the world has ever known. Politically she was often a cruel tyrant, waging useless wars and sentencing scores of her enemies to be cut down.
+<br>Yet if the cook burned the meat, she said nothing. She smiled and ate it with tolerance.
+<br>321
+<br>
+<br>Make tour life happier - pay little attentions.
+<br>Give flowers, ask how are you...
+<br>331
+<br>#
+<br>
+<br>
 <br>
 <br>
