@@ -41,6 +41,11 @@
     text-transform: uppercase;
     color: #00a3c2;
 }
+#block288 .secondary {
+    font-weight: 600;
+    font-style: italic;
+    text-transform: uppercase;
+}
 
 #block287 {
     color: #aaa;
