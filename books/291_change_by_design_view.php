@@ -1,5 +1,3 @@
-Change by Design
-<br>
 <br>The faster you fail, the sooner you succeed.
 <br>
 <br>Without making the brief too concrete, he helped the team establish a realistic set of goals. Without making it too broad, he left us space to interpret the concept for ourselves, to explore and to discover.

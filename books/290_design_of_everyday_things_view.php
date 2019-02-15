@@ -1,6 +1,3 @@
-The Design of Everyday Things
-<br>Donald Norman
-<br>
 <br>2 characteristics of good design - 
 <br>discoverability (of possible actions, where and how to perform)
 <br>Understanding (how is product supposed to be used? What do controls mean?)

@@ -1,5 +1,3 @@
-John Maeda - The Laws of Simplicity
-<br>
 <br>After all features that can be removed have been - and product has become slim and thin, its time for another method - hide.
 <br>Swiss army knife - only tool you wish to use is exposed.
 <br>5

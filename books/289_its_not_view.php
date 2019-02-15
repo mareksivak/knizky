@@ -1,6 +1,3 @@
-It's not how good you are, ot's how good you want to be
-<br>Paul Arden
-<br>
 <br>Nearly alll rich people are not notably talented, educated, charming or good-looking.
 <br>They became rich or powerful by wanting to be rich and powerful.
 <br>

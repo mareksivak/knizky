@@ -1,5 +1,3 @@
-Matchmakers
-<br>
 <br>Traditional economic formulas are wrong for multisided marketplace.
 <br>Chicken and egg problem, build supply first, reward demand
 <br>Traditional - never get profitable to sell less than cost. Paying customers rather than charging can be profitable.

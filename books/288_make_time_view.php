@@ -1,5 +1,3 @@
-Make Time
-<br>
 <br>Make Time is not about productivity. It’s not about getting more done, finishing your to-dos faster, or outsourcing your life. Instead, it’s a framework designed to help you actually create more time in your day for the things you care about, whether that’s spending time with your family, learning a language, starting a side business, volunteering, writing a novel, or mastering Mario Kart.
 <br>12
 <br>
