@@ -31,6 +31,17 @@
     color: #444!important;
 }
 
+#block288 {
+    font-family: "karmina-sans";
+    color: #333;
+}
+#block288 .primary {
+    font-weight: 600;
+    font-style: italic;
+    text-transform: uppercase;
+    color: #00a3c2;
+}
+
 #block287 {
     color: #aaa;
 }
