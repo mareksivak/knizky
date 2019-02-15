@@ -31,6 +31,18 @@
     color: #444!important;
 }
 
+#block287 {
+    color: #aaa;
+}
+#block287 .primary {
+    text-transform: uppercase;
+    letter-spacing: 0.5;
+}
+#block287 .secondary {
+    text-transform: uppercase;
+    letter-spacing: 0.5;
+}
+
 
 #block286 {
     color: #00a092;
