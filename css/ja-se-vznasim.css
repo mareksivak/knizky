@@ -47,11 +47,12 @@
 }
 #block287 .primary {
     text-transform: uppercase;
-    letter-spacing: 0.5;
+    letter-spacing: 0.5rem;
 }
 #block287 .secondary {
+    margin-top: 1rem;
     text-transform: uppercase;
-    letter-spacing: 0.5;
+    letter-spacing: 0.5rem;
 }
 
 
