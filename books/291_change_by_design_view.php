@@ -46,3 +46,36 @@
 <br>After spending countless days riding trains with customers, the team created a simple customer journey that described the entire travel process. The journey, for most customers, had ten steps, which included getting to the station, finding parking, buying tickets, locating the platform, and so on. The insight that proved most striking was that passengers did not take their seats on the train until stage eight—most of the experience of train travel, in other words, did not involve the train at all. The team reasoned that every one of the prior steps was an opportunity to create a positive interaction, opportunities that would have been overlooked if they had focused only on the design of the seats
 <br>
 <br>
+<br>I have seen countless examples of good ideas that never gained traction for the simple reason of poor execution. 
+<br>+
+<br>
+<br>Experiences are deeper and more meaningful. They imply active participation, not passive consumption, which can happen on many different levels
+<br>#
+<br>
+<br>Through the 1950s and ’60s, in Europe and America, local stores began to disappear, replaced by inexpensive but sterile supermarkets. The drive to lower prices—through such industrial processes as packaging, chemical preservatives, refrigeration, storage, and long-distance transport—not only removed much of the natural quality from food but also dehumanized an experience that lies close to the origins of human society. 
+<br>
+<br>We found that all people want to save more but only a few have strategies for doing so
+<br>
+<br>Rather than delivering a set of instructions created for them by a bunch of designers somewhere, we encourage them to become design thinkers themselves.
+<br>-
+<br>Empowering employees to seize opportunities when and where they see them and giving them the tools to create unscripted experiences is an essential element of that transformation.
+<br>-
+<br>What we learn from the hospitality industry, where brands are built on the delivery of great experiences, is that transforming the culture of an organization is  as important as design of interiors.
+<br>
+<br>Blueprint.
+<br>In the days before large-format photocopy machines, never mind computer-aided design, technical drawings still needed to be reproduced for building contractors and workers on the factory floor. They used a chemical process that produced blue-lined prints with a strong smell of ammonia, and the “blueprint” became synonymous with the specifications used in manufacturing or construction
+<br>#
+<br>
+<br>design brief of the past might have called for “comfortable seating in the waiting room” or “storage unit for patient property.” The brief of the design thinkers at Nurture, by contrast, is more likely to ask, “How might we create zones of privacy in public areas?” or “How might we accommodate the different spatial requirements of patients, visitors, and medical staff in a hospital recovery room?”
+<br>
+<br>By shifting its focus from furniture products to the entire health care environment, Nurture represents a case study of design thinking at work. 
+<br>product designers, interior designers, and architects team up with physicians, nurses, and patients to explore a problem, prototype possible solutions, and evaluate results. 
+<br>Nurture begins with the premise that the physical environment contributes to the healing process as much as do prescription medicines, surgical instruments, and a skilled nursing staff. 
+<br>
+<br>They liked the fish. Next time give them the net.” The deliverable, in other words, was great, but Liang saw the opportunity to share with Acer the process that had created it. 
+<br>
+<br>If it does a better job of understanding its customers, it will do a better job of satisfying their needs. That is simply the most reliable source of long-term profitability and sustainable growth.
+<br>#
+<br>
+<br>As consumers we are making new and different sorts of demands; we relate differently to brands; we expect to participate in determining what will be offered to us; and we expect our relationship with manufacturers and sellers to continue beyond the point of purchase. To meet these heightened expectations, companies have to yield some of their sovereign authority over the market and enter into a two-way conversation with their customers.
+<br>

@@ -101,9 +101,13 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('296', 'Flow', 'Mihaly Csikszentmihalyi', '', '296_flow_view');
+    append_book('290', 'The Design of Everyday Things', 'Donald Norman', '', '290_design_of_everyday_things_view');
+    append_book('295', 'Emotional Design', 'Donald Norman', '', '295_emotional_design_view');
+    append_book('294', 'Qoran', '', '', '294_qoran_view');
+    append_book('293', 'The Joy of Game Theory', 'Presh Talwalkar', '', '293_the_joy_of_game_theory_view');
     append_book('292', 'Matchmakers', '', '', '292_matchmakers_view');
     append_book('291', 'Change by Design', '', '', '291_change_by_design_view');
-    append_book('290', 'The Design of Everyday Things', 'Donald Norman', '', '290_design_of_everyday_things_view');
     append_book('289', 'It\'s not how good you are, it\'s how good you want to be', 'Paul Arden', '', '289_its_not_view');
     append_book('288', 'Make Time', 'Jake Knapp', '', '288_make_time_view');
     append_book('287', 'The Laws of Simplicity', 'John Maeda', '', '287_simplicity_view');

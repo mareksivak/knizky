@@ -31,6 +31,19 @@
     color: #444!important;
 }
 
+#block289, #block290, #block291, #block292, #block293, #block294, #block295, #block296, #block297, #block298 {
+    font-family: "canada-type-gibson";
+    color: #3D4852
+    
+}
+#block289 .primary, #block290 .primary, #block291 .primary, #block292 .primary, #block293 .primary, #block294 .primary, #block295 .primary, #block296 .primary, #block297 .primary, #block298 .primary {
+    color: #11192F;
+    line-height: 1.1;
+}
+#block289 .secondary, #block290 .secondary, #block291 .secondary, #block292 .secondary, #block293 .secondary, #block294 .secondary, #block295 .secondary, #block296 .secondary, #block297 .secondary, #block298 .secondary {
+    color: #DAE1E7;
+}
+
 #block288 {
     font-family: "karmina-sans";
     color: #333;
