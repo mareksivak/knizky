@@ -101,6 +101,8 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('298', 'The Amazon Way', '14 Leadership Principles', '', '298_amazon_view');
+    append_book('297', 'The Power of Moments', '', '', '297_power_of_moments_view');
     append_book('296', 'Flow', 'Mihaly Csikszentmihalyi', '', '296_flow_view');
     append_book('290', 'The Design of Everyday Things', 'Donald Norman', '', '290_design_of_everyday_things_view');
     append_book('295', 'Emotional Design', 'Donald Norman', '', '295_emotional_design_view');

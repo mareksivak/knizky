@@ -144,3 +144,26 @@ Quran
 <br>
 <br>28:27 The father said: I would like to marry you to one of tgese two daughters of mine on the condition that you stay 8 years in my service. But if you wish, you can stay 10. I dont want to imposeany hardship on you. God willing, you will find me a fair person.
 <br>28 Moses said, That is agreed between me and you. Whichever of the two terms I fulfill, there will be no blame on me. God is witness to what we say.
+
+<br>
+<br>32:19 Those who believe and do good deedsshall be lodges in the Gardens of Paradise as a reward for what they have done
+<br>32:20 As for those who defy God,their home should be the Fire. Whenever they try to escape it, they shall be driven back into it...
+<br>32:32 Wives of the Prophet, you are not like any other women...
+<br>33 Stay in your homes and do not flaunt your charms....Attend to your prayers, pay the zakat and obey the God and His Messenger...
+<br>32:41 Belieblvers, remember God often
+<br>42 Glorify Him morning and evening.
+<br>43 It is He who sends blessings for you, as do His angels, so that He may bring you out of the darkness into light...
+<br>#
+<br>34:45 Their predcessors also rejected the truth...
+<br>35:19 The blind and the sighted are not equal,
+<br>20 nor the darkness and light,
+<br>21 and shade and the light are not alike,
+<br>22 nor the living and the dead.
+<br>35:37 They will cry out: Lord, take us out! We shall do good deeds and behave differently from the way we used to. But he will answer: Did we make your life long enough to take warning if you were going to?...
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
