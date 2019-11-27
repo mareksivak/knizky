@@ -1,4 +1,4 @@
-var MAX= 7;
+var MAX= 0;
 DELAY = 200;
 
 
