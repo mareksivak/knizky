@@ -220,7 +220,7 @@ function init_books() {
             areAnimationsFinished = true;
         }, 300);
     });
-    intro_anim();
+    // intro_anim(); //intro anim off
 }
 
 
