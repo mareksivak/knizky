@@ -183,7 +183,7 @@ function init_books() {
 
     $(".js-collapsed").click(function()
     {
-      if (!anim_finished) return;
+      //if (!anim_finished) return;  // turn off init anim
         show_book($(this));
 
     });
@@ -220,8 +220,8 @@ function init_books() {
             areAnimationsFinished = true;
         }, 300);
     });
-    // intro_anim(); //intro anim off
+     //intro_anim(); // turn off init anim (2)
 }
 
 
-init_books();
+ init_books(); 
