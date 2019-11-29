@@ -221,6 +221,7 @@ function init_books() {
         }, 300);
     });
      //intro_anim(); // turn off init anim (2)
+    splash();
 }
 
 
