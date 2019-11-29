@@ -1,5 +1,5 @@
 function splash() {
-    $(".splash").addClass("animated400 fadeInLeft");
+    $(".splash").addClass("animated400 fadeOut");
     $(".splash").one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',  function()
     {
        $(".splash").hide();
