@@ -55,3 +55,71 @@
 <br>J: would backfire. Leaves bitter tastes at customer with assiciates with brand.
 <br>
 <br>Amazon: a store for virtually anything you can buy. Started with books then expamded everywhere
+
+<br>
+<br>Availability.
+<br>Apple failed to deliver 4k ipods before Christmas. Other company would apologize customers and let it go.
+<br>Amazon - we ruined peoples Christmas because of lack of availability - under any circumstances. So we bought them at retail,  repacked and sold. It killed our margin, but we kept our promise
+<br>J: try to get our money back from Apple.
+<br>They split the cost. Even if not, right thing to do.
+<br>- disappoint customer - hazard with trust
+<br>#
+<br>
+<br>Andon cord, emergency break - originated in manufacture, stopping assembly line - risk of compromising quality or health
+<br>Incomplete product descriptions - disapoint customer, will ask for return
+<br>We gave folks in retail action items to fix. No change though.
+<br>Brzda - when customers complain about a problem with product, we take it down and message retailer - fix the defect or you cant sell.
+<br>-- underscores obsession with customer
+<br>#
+<br>
+<br>J: Bring empty chair to the meetings - ensure voice of customer is heard althoug not physically present
+<br>To ensure voice of customer is heard throught organisation - all managers 2 days at CS every year
+<br>
+<br>Jeff: invested millions into systems montiroting online customer feedback
+<br>- email system monitoring CS conversations
+<br>- metrics to track customer complaints
+<br>- fulfillment capacity for merchants
+<br>"We built automated systems that look for occasions when we provided cust experiemce that is not up to our standards and proactively refund - ef video stram quality"
+<br>
+<br>Amazon Prime
+<br>J referrenced to airline loyalty progrs, where you never feel rewarded. Wanted to create something tanfible.
+<br>Critical customer loyalty program - 2day shipping, monylthly book rentals.
+<br>
+<br># strong opinuons, confidence and leafership - supported with data
+<br># to satisfy needs in way doesnt exust or no one is doing
+<br>
+<br>"Launch an innovation based on customer needs"
+<br>
+<br>Customer focus - being inventive and pioneering
+<br>Competitor focus - waiting for competitor and responding
+<br>
+<br>J: 2 ways to extend a business. Take inventory of what you’re  good at and extend out from your skills. Or determine what  your customers need and work backward, even if it requires  learning new skills.
+<br>##llm
+<br>
+<br>----
+<br>
+<br>2. TAKE OWNERSHIP
+<br>
+<br>Think long term, dont sacrifice long term value for short term results -- bad leadership
+<br>#
+<br>
+<br>Sell your long term idea
+<br>- look in opportunities in multiple years and decades
+<br>- buying Washington Post may not be that crazy then
+<br>##
+<br>
+<br>Amazon culture: Reward poeple passionate about ideas and own results.
+<br>
+<br>Highest level of customer service is impossible without high level of accountability and willingness to be open, direct and honesy.
+<br>No tolerance to excuses and bullshit
+<br>- Failed project report: here's what didnt work, why and how ee're going to change
+<br>- Project heading to disaster: we dont think its going to work, lets try sth else.
+<br>
+<br>J: hard to work with. Danded too much, stingy with praise. A lot accomplished.
+<br>
+<br>Ownership - not only mastering your domain, go beyond your role whenever its needed to improve customer experience or fix problrm.
+<br>
+<br>If you've got something valuable dont wait to be asked, simply show up.
+<br>Talk with knowldge and aithority about projects 3 levels  far  from you
+<br>
+<br>
