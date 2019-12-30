@@ -358,3 +358,168 @@ The Power of Moments
 <br>- build gradual and graduatef practice
 <br>// Military, overcoming fear of spiders by leveling up
 <br>183
+<br>Its not hard to know whats the right thing. Its hard to do it
+
+<br>##
+<br>
+<br>Drugs,leadership-meetings
+<br>-Natural instinct to cave to majority opinion. If everyone says red card is orange, we think we must be wrong and call it orange too.
+<br>-its hard to be courageous, but its easier when you practice. Stand up and others will join. Say red is red, not orange. Wrong is wrong.
+<br>-Your moment of courage can be defining moment for someone else.
+<br>##
+<br>
+<br>
+<br>
+<br>—
+<br>
+<br>Moments of pride commemorate achievements
+<br>
+<br>To create them
+<br>-recognize others
+<br>-multiply milestones
+<br>-practice courage
+<br>
+<br>
+<br>
+<br>Small effort in recognition - huge reward for recipient 
+<br>Recognition must be personal, not programmatic
+<br>
+<br>
+<br>
+<br>To create moments of pride - multiply milestones - reframe journey into many finish lines.
+<br>
+<br>
+<br>
+<br>Surface milestones that would have gone unnoticed
+<br>
+<br>-before and after video of progress of participants
+<br>
+<br>-motivational milestones on organisational goals
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>———
+<br>
+<br>
+<br>
+<br>Moments of Connection
+<br>
+<br>
+<br>
+<br>———
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>Hospital
+<br>
+<br>-you cannot create perfect patient experience without creating perfect employee experience
+<br>
+<br>-create the best place to work
+<br>
+<br>-creates best place to receive care
+<br>
+<br>
+<br>
+<br>Connection / shared meaning- we are in this together
+<br>
+<br>
+<br>
+<br>Purpose isnt discovered - its cultivated
+<br>
+<br>##
+<br>
+<br>219
+<br>
+<br>
+<br>
+<br>As a leader unite people who might otherwise drift in different directions, chasimg different passions
+<br>
+<br>
+<br>
+<br>Worst of the worst schools
+<br>
+<br>Teachers started home visits
+<br>
+<br>It was first time someone asked on dreams of our kid. Super engaging for parents
+<br>
+<br>Progress was slow, but later became wanted. Did you get a home visit? I did.
+<br>
+<br>—
+<br>
+<br>When they invited parents to visit school, room was full (200). Previous years less than 10.
+<br>
+<br>228
+<br>
+<br>
+<br>
+<br>Deepening rlationships 
+<br>
+<br>1.  Understanding - know perspective and whats important
+<br>
+<br>2.  Validation - respect that
+<br>
+<br>3.  Care - take active and supportive steps in meeting needs
+<br>
+<br>
+<br>
+<br>--what are your dreams and hopes? What do you want to become someday?
+<br>
+<br> what do I need to do to help you learn more effectively?
+<br>
+<br>233
+<br>
+<br>
+<br>
+<br>Customer care
+<br>
+<br>A. I understand you have a problem, go to settings...
+<br>
+<br>B. I understand you have a problem. I can see in system you have called few times before. Can you tell me what have you tried, what worked and what didn't, so we can take it from there I stead of repeating stuff you have tried
+<br>
+<br>
+<br>
+<br>Breakthrough script - escape from routines
+<br>
+<br>
+<br>
+<br>Create sharedmeaning - cha´lenging task that bonds people together
+<br>
+<br>
+<br>
+<br>----
+<br>
+<br>
+<br>
+<br>Making moments matter
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>----
+<br>
+<br>
+<br>
+<br>School admissions
+<br>
+<br>-encourage to postphotos themselves wearing swag using hashtagtoconnect with other admirers
+<br>
+<br>-persona´ised video message from admissions director(deepening responsiveness)
+<br>
+<br>-announcing students that resuˇts will be available at 4:58pm and giving personal code to log in - raising the stakes
+<br>
+<br>##
+<br>
+<br>255
+<br>
+<br>
+<br>
+<br>A bit of energy and attention to transform ordinary moments into exceptional ones
+<br>
+<br>##
+<br>
+<br>

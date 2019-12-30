@@ -1,5 +1,3 @@
-Quran
-<br>
 <br>Every book has its objective and objective of the Quran is to make man aware of the Creation plan of God. That is, to tell man why God created this world, what the purpose is of settling man on earth, what is required from man  in his pre-death life span and what is he going to confront after death.
 <br>x
 <br>
@@ -161,6 +159,16 @@ Quran
 <br>22 nor the living and the dead.
 <br>35:37 They will cry out: Lord, take us out! We shall do good deeds and behave differently from the way we used to. But he will answer: Did we make your life long enough to take warning if you were going to?...
 <br>
+<br>
+<br>36:16 They said, Our Lord knows we have been sent to you
+<br>17 And our duty is only to convey the message to you clearly
+<br>
+<br>40: 21 Have they not travelled through the land and seen what was the end of those who have gone before them? They were stronger than them and made a more impressive mark upon the land, yet God destroyed them for their sins. They had no one to defend them against him.
+<br>22 that was because their Messengers came to them with clear signs but they rejected them. So God seized them: he is powerful, severe in punishment.
+<br>23 God sent Moses with Our signs and clear authority 
+<br>24 to Pharaoh, Haman and Korah, but they said A magician, a liar.
+<br>
+<br>40:35 those who dispute God's revelations without any authority are doing something that is greatly abhorrent to God and to the believers. That is how God deals up the heart of everything rrogant oppressor.
 <br>
 <br>
 <br>
