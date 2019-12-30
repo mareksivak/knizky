@@ -541,3 +541,15 @@
 <br>-customer  marginal  costs  decrease  over  time as  the  scale  of  adoption  and  scale  of  the  platform  increases. 
 <br>-accomplished by user management, infrastructure, building the IP in the proprietary platform management layers
 <br>-Continuously  reducing  the  IP  of  third-party  components,  and  building  these  capabilities  into  your  platform  capability,  is  a  classic  move  of  driving  toward  commoditization and reducing dependencies on other partners.
+
+<br>————————
+<br>
+<br>FUTURE PRESS RELEASE
+<br>
+<br>————————
+<br>
+Amazon Announces Huge Growth in Third-Party Selling, Delighting Customers and Sellers 
+<br>
+<br>Seattle,  WA:  Amazon  announced  results  for the  third-party  selling  business  today.  Using  the third-party  selling  platform,  Amazon  customers can  now  shop  across  many  categories  of  products today  including  apparel,  sporting  goods,  home decor,  jewelry  and  electronics  with  incredible  selection,  price  and  an  experience  equaling  orders fulfilled by Amazon. 
+<br>
+<br>“The  Amazon  customer  now  thinks  about Amazon  for  any  retail  need,  thanks  to  the  third party  selling  business.  Over  30%  of  all  orders at Amazon are now third party sold and ful-filled orders, across 10 new and expanded prod-uct categories,” explained Director of Merchant Integration John Rossman. “We tackled several difficult hurdles to make this successful, with the key being that sellers had a great experience. Sellers can now register, list products to sell, take orders and fulfill in the middle of the night, with-out ever having to talk to someone at Amazon.”
