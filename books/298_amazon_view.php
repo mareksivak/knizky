@@ -541,7 +541,89 @@
 <br>-customer  marginal  costs  decrease  over  time as  the  scale  of  adoption  and  scale  of  the  platform  increases. 
 <br>-accomplished by user management, infrastructure, building the IP in the proprietary platform management layers
 <br>-Continuously  reducing  the  IP  of  third-party  components,  and  building  these  capabilities  into  your  platform  capability,  is  a  classic  move  of  driving  toward  commoditization and reducing dependencies on other partners.
+<br><br>
 
+<br>Hidden platform
+<br>Customers unaware of underlaying platform being used - tech infra
+<br>Building the interactions with the platform as “self-service” as possible, helps enable flexibility and scaling.
+<br>
+<br>Long term strategy.
+<br>
+<br>Delivering scalable and reliable services over time requires careful upfront planning and design with phased long-term execution.
+<br>
+<br>
+<br>transient nature of customers. Simplicity of provisioning to the platform services lowers barriers to access and use and result in casual or seasonal usage. A successful platform business will see a significant percentage of revenue fluctuate as these casual users migrate and must shift marketing and operating focus to support this new class of customers.
+<br>
+<br>
+<br>
+<br>Operational challenges
+<br>
+<br>When offering a platform service, it is vital to be far more wired to customer and internal metrics while ensuring seamless continuity, high performance and a high degree of availability.
+<br>
+<br>SLA
+<br>-well defined and granular operational levels
+<br>-privacy controls
+<br>-realtime key operating data availability
+<br>Best in class platforms offer service levels and operational control Exceeding what a typical company can build for itself. This is a key value proposition for using the platform.
+<br>☐ If third parties cannot manage and have the operational controls of the environment, the ability to “bet the business” is significantly compromised.
+<br>##
+<br>
+<br>Service analytics.
+<br>Metrics, analytics, self-monitoring capabilities - Expose appropriately to partners and clients
+<br>Measure everything to improve performance.
+<br>Transparency is key. Custoˇer must have same level of visibility into performance, exception management and end customer behaviors as service provider.
+<br>Leave some aspects of service black box, but enable customers to analyse their interface with platform to facilitate continuous improvement
+<br>####
+<br>
+<br>Multu-tenant
+<br>Build capabilities to add and serve substantial amount of clients without modification, separate infrastructures or new instances
+<br>Facilitate multiple tenants with customers configurations, business rules and functionality - without changing underlaying platform
+<br>##
+<br>
+<br>Global platform
+<br>Common execution code base is used resulting in consisting interface. Results in one instance model instead of ˇultiple instances deployed running in parallel to another
+<br>
+<br>Zero Provisioned. Adding a partner or client has zero provisioning costs for the platform company due to the self-service attribute. In other words, an external entity that wants to use your capabilities should be able to sign up and use them without your assistance
+<br>
+<br>Think broadly about potential services that potentially could be developed
+<br>
+<br>
+<br>
+<br>Ecosystem
+<br>
+<br>Ideally a strong platform attracts deeply invested third parties that innovate and construct own capabilities on top of it.
+<br>
+<br>Enable and facilitate - create self service platform that allow customers experiment and accomplish things that otherwise would be impossible or impractical
+<br>##
+<br>
+<br>Platform is not zero sum - creates win-win situations
+<br>
+<br>Key is to actively identify partners who could build on your platform - those opportunities will become your channel expertise
+<br>
+<br>External innovation
+<br>Enterprises on your platform innovate as well - without anyone on the platform needing to know about it.
+<br>##
+<br>There are no gatekeepers
+<br>J: even well-meaning gatekeepers slow innovation
+<br>##
+<br>
+<br>Platform synergies
+<br>Platform creates intentional and unintentional synergies. They increase value and traction for partners
+<br>By selling you make items eligible for Prime. Being Prime increases sales. That's good for you, platform and customer. The more platform is used the more fixed costs is covered, the more efficiently flywheel turns
+<br>
+<br>Rules
+<br>You are playing on the same field - make everyone equal / partner
+<br>##
+<br>Potential conflicts, competition between platform, policies, and ecosystem partners should be fair, well governed and slow moving
+<br>Ecosystem partners should be able to get on the platform with low riskofbeing cannibalized
+<br>If you want others getting their future on you you have to be fair and transparent
+<br>
+<br>Unplanned customers and innovation
+<br>Successful immovation- the richest source of opportunity
+<br>Prepare for customersand innovation you haven't dreamed of or have yet to exist
+<br>As a successful platform expect to be surprised if you're effective in identifying new customer segments and nimble in responding to new demand channels
+<br>Creating both environment and tools (such as API) makes customers and partners innovate without your direct involvement
+<br>##
 <br>————————
 <br>
 <br>FUTURE PRESS RELEASE
