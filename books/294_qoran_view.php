@@ -170,6 +170,18 @@
 <br>
 <br>40:35 those who dispute God's revelations without any authority are doing something that is greatly abhorrent to God and to the believers. That is how God deals up the heart of everything rrogant oppressor.
 <br>
+<br>40:55 So be patient, for what God has promised is sure to come. Ask forgiveness for your sins, praise the Lord morning and evening.
+<br>*##
+<br>
+<br>40:57 Certainly, the creation of the heavens and the Earth is greater than creation of mankind, but most people do not know this.
+<br>58 Blind and sighted are not equal, just as those who believe and do good works and those who do evil are not equal. How seldom you reflect!
+<br>59 Final Hour is sure to come, without doubt, but most people do not believe.
+<br>*##
+<br>
+<br>40:61 It is God who has given you the night in which you rest a d day in which to see.
+<br>
+<br>40:67 It is He who created you from dust then from a drop of fluid, then from a tiny, clinging form, then He brought you forth as infants, then He allowed you to reach maturity, then He let you grow old - though some of you die sooner - and reach your appointed term so that you may reflect.
+<br>*##
 <br>
 <br>
 <br>
