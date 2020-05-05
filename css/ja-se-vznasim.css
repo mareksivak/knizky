@@ -16,18 +16,23 @@
     overflow-y: hidden;
     position: relative;
 
-    font-family: "abril-text";
+    font-family: -apple-system, system-ui,"canada-type-gibson";
+    color: #3D4852
 }
 
 .block .primary
 {
      font-size: 2rem;
     margin: 0 1rem;
+    
+    color: #11192F;
 }
 .block .secondary
 {
     font-size: 1.5rem;
     margin: 0 1rem;
+    
+    color: #DAE1E7;
 }
 
 .block .tertiary

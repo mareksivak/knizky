@@ -101,6 +101,8 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    append_book('302', 'Zappos: Deliverying Happines', 'Tony Hsieh', '', '302_zappos_view');
+    append_book('301', 'Finance for Expecutive', '', '', '301_finance_for_executives_view');
     append_book('300', 'Never Split the Difference', 'Chris Voss', '', '300_never_split_the_difference_view');
     append_book('299', 'Applied Empathy', '', '', '299_applied_empathy_view');
     append_book('298', 'The Amazon Way', '14 Leadership Principles', '', '298_amazon_view');
