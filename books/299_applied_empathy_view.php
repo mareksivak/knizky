@@ -13,7 +13,7 @@
 <br>
 <br>Boring company, Elon Musk
 <br>While all intellectuals envisioned a world of flying cars, he focus on building technologically advanced tunnelling businessdesigned to solve congested road problems by expanding them under ground
-<br>These companies and their leaders understand how to use empathy to look at *problems differently* and create solutions that not only disrupt conventions but use empathy as a powerful tool.
+<br>These companies and their leaders understand how to use empathy to look at <strong>problems differently</strong> and create solutions that not only disrupt conventions but use empathy as a powerful tool.
 <br>--
 <br>Use empathy to look at problems differently
 <br>##
@@ -53,7 +53,7 @@
 <br>If you throw me into a room with zero preparation and give me some markers and a whiteboard, I’m probably going to sit there staring at it for an hour or two before anything happens.
 <br>##
 <br>
-<br>Creatives I know can dive straight in and spitball ideas endlessly. I need to more fully understand a situation before I can do that. I need to see the bigger picture. I need to do some research. I need to talk with a few people and hear their perspectives. Otherwise I feel as though the ideas I generate are just built on “*Wouldn’t it be cool if . . .* ” propositions with little meaning. 
+<br>Creatives I know can dive straight in and spitball ideas endlessly. I need to more fully understand a situation before I can do that. <strong>I need to see the bigger picture</strong>. I need to do some research. I need to talk with a few people and hear their perspectives. Otherwise I feel as though the ideas I generate are just built on “<strong>Wouldn’t it be cool if . . .</strong> ” propositions with little meaning. 
 <br>—
 <br>I want, and expect, more than that from myself and from the work my team produces.
 <br>##
@@ -159,11 +159,11 @@
 <br>Questions
 <br>What is your purpose? How was your past shaped? How do you deal with negative emotions?
 <br>What do you want to know the most? When have your instincts led you astray? What do you continually askyourself?
-<br>*What makes your experience meaningful?*
-<br>What motivates you to progress? *When does your curiosity create difficulty?* What does approaching breakthrough feels like? Who has challenged you to bebetter than you once we're? *What is the biggest sacrifices you've ever made?*
-<br>When is listeno´ing more valuable than counselling? *How do you build trust? What should people better understand about you?* When are you the most observant?
-<br>*What mistake would you make again?* How do you explore your inner self? *Where do you go to push your limits?*
-<br>*How do you build endurance?* What do you purposely leave undone? *Who are your long term partners?* What commitment have you made to yourself more than once? *When has mentorship played role in your life?* When do you feel the most nurtured?
+<br><strong>What makes your experience meaningful?</strong>
+<br>What motivates you to progress? <strong>When does your curiosity create difficulty?</strong> What does approaching breakthrough feels like? Who has challenged you to bebetter than you once we're? *What is the biggest sacrifices you've ever made?*
+<br>When is listeno´ing more valuable than counselling? <strong>How do you build trust? What should people better understand about you?</strong> When are you the most observant?
+<br>*What mistake would you make again?* How do you explore your inner self? <strong>Where do you go to push your limits?</strong>
+<br>*How do you build endurance?* What do you purposely leave undone? <strong>Who are your long term partners?</strong> What commitment have you made to yourself more than once? <strong>When has mentorship played role in your life?</strong> When do you feel the most nurtured?
 <br>How do you build endurance?
 <br>What do you purposely leave undone?
 <br>
@@ -349,9 +349,9 @@
 <br>MARKETING COMMUNICATION
 <br>
 <br>Fashion brand social channel
-<br>-overfocused on sales
+<br>-<strong>overfocused on sales</strong>
 <br>-pressure from the company’s sales and leadership teams to drive more sales through social media.
-<br>-“*Imagine if every time we hung out together, all I talked about was my clothes. How often would we hang out?*”
+<br>-“<strong>Imagine if every time we hung out together, all I talked about was my clothes. How often would we hang out?</strong>”
 <br>-We looked for other topics for which the brand shared a passion with its consumers, and we landed on music, design, and food. As a test, the media people swapped their sales promotion content for conversations with their followers about their favorite new bands, artists, and restaurants.
 <br>-Within weeks, the company regained its lost audience and began adding new followers to its social media outlets; most important, it established an authentic connection that carried over to its product. Its consumers came to believe that the brand understood them. And guess what? Sales started to rise.
 <br>
@@ -382,8 +382,8 @@
 <br>
 <br>“Check in,” we make sure it’s the right time for feedback and all parties involved are in the right headspace to have this sort of conversation. 
 <br>*Getting present*
-<br>“Lead with data” reminds everyone to start the conversation  *with facts, not subjectively with feelings or opinion*. 
-<br>With the first two in place, it’s time for “Emotion” to be revealed, with each person saying how he or she feels about a given issue or topic. “Agreement” is a step designed to bring about common ground. You could think of this as the “empathy” step, where we look at the *situation from the other person’s perspective* and look for the place where our views align. 
+<br>“Lead with data” reminds everyone to start the conversation  <strong>with facts, not subjectively with feelings or opinion</strong>. 
+<br>With the first two in place, it’s time for “Emotion” to be revealed, with each person saying how he or she feels about a given issue or topic. “Agreement” is a step designed to bring about common ground. You could think of this as the “empathy” step, where we look at the <strong>situation from the other person’s perspective</strong> and look for the place where our views align. 
 <br>We end with “Resolution,” the moment when we discover how we can move forward together. This may not be a surprising approach to conflict resolution, but interestingly, we have found it helpful to consider when there’s positive feedback to deliver.
 <br>--
 <br> Over time, CLEAR conversations have become second nature to us, and we don’t always have to go through the five steps overtly because each element is integrated into our behavior. 
@@ -429,7 +429,7 @@
 <br>We began digging into all areas of the company, from messaging and marketing to products and services, business metrics, internal culture,...
 <br>It's important to build this sort of broad foundation because you never know where insights will emerge.
 <br>
-<br>Our close look at the Color of the Year revealed Pantone’s savant gift. It was hiding right there in plain sight. The world saw it, but the company had *become so locked into the day-to-day of its business that it hadn’t been able to see it.*
+<br>Our close look at the Color of the Year revealed Pantone’s savant gift. It was hiding right there in plain sight. The world saw it, but the company had <strong>become so locked into the day-to-day of its business that it hadn’t been able to see it.</strong>
 <br>The Color of the Year is Applied Empathy in action. Pantone gathers its understanding of the world around it from its customers and its own internal knowledge and uses that to present a fresh perspective on the core of its business: color. It just didn’t realize it was doing that.
 <br>Company's authority in color intelligence
 <br>
@@ -438,13 +438,13 @@
 <br>
 <br>which meant we’d need to stay on a relatively shoestring budget until we had a couple wins to our credit.
 <br>
-<br>Our *research as well as our perspective on the brand told us that there were consumers out there who were desperate t*o interact with the brand in a more meaningful way but were not getting anything
+<br>Our <strong>research as well as our perspective on the brand told us that there were consumers out there who were desperate to</strong> interact with the brand in a more meaningful way but were not getting anything
 <br>
-<br>Applying empathy, we *put ourselves into the perspective* of the entire design community (designers, decorators, architects, and so on)—not such a stretch for a shop like ours but an important step to ensure that we were seeing the matter from all angles. *We challenged ourselves to consider* surprising ways Pantone could show up in the world while still being true to its brand. At the same time, we noted how often the world of design changes seasonally.
+<br>Applying empathy, we <strong>put ourselves into the perspective of the entire design community</strong> (designers, decorators, architects, and so on)—not such a stretch for a shop like ours but an important step to ensure that we were seeing the matter from all angles. <strong>We challenged ourselves to consider</strong> surprising ways Pantone could show up in the world while still being true to its brand. At the same time, we noted how often the world of design changes seasonally.
 <br>
 <br>sparking new conversations, behaviors, relationships, and memories in all kinds of ways. The B2B community was appreciating the full value of Pantone’s expertise in color and trend forecasting, which had already led to increased sales of the company’s products and services. Those customers realized that the Pantone they had known and trusted over the years now had much more to offer. 
 <br>All of that new engagement and growth was bringing about a “perfect storm” of success that simultaneously enlivened the spirit of the internal culture.
-<br>executives who only six months earlier had called Pantone an “ink-and-chemical company.” Now they were beaming, asking each other things such as “Is this ‘brilliant’ enough?” and “*How can we inspire more people* with color?”
+<br>executives who only six months earlier had called Pantone an “ink-and-chemical company.” Now they were beaming, asking each other things such as “Is this ‘brilliant’ enough?” and “<strong>How can we inspire more people</strong> with color?”
 <br>--
 <br>-leverage strength - Sparks pride and boosts morale
 <br>-became seen as authority - value on top of the product
@@ -485,21 +485,21 @@
 <br>
 <br>Open-minded
 <br>If you have feeling you're on right path - don't give up. 
-<br>Intutuition and trusting in yourself are critical for cultivating *empathetic leadership*
+<br>Intutuition and trusting in yourself are critical for cultivating <strong>empathetic leadership</strong>
 <br>Respect others - everyone is on own journey and you'd be surprised what can be discovered if you connect people with their inner self
 <br>#
 <br>
 <br>Selfless
 <br>Prioritize others tin order to get to the right place
-<br>If *you put their needs above yours, you'll see leading from position of authenticity and partnership*
+<br>If <strong>you put their needs above yours, you'll see leading from position of authenticity and partnership</strong>
 <br>#
 <br>
 <br>If applying empathy is hard - don't give up
-<br>*Successful leaders apply empathy to their teams or themselves even when it feels they should give up*
+<br><strong>Successful leaders apply empathy to their teams or themselves even when it feels they should give up</strong>
 <br>#
 <br>
 <br>Be brave
-<br>*Apply empathy and bravery and leadership will come as side effects*
+<br><strong>Apply empathy and bravery and leadership will come as side effects</strong>
 <br>Create space where your skills can be better known
-<br>*What gives us courage - create space where your and others skills can be better known - receive courage from knowing we are surrounded by deeper awareness of us and the world*
+<br><strong>What gives us courage - create space where your and others skills can be better known - receive courage from knowing we are surrounded by deeper awareness of us and the world</strong>
 <br>#
