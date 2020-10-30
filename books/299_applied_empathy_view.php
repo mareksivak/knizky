@@ -499,7 +499,7 @@
 <br>#
 <br>
 <br>Be brave
-<br><strong>Apply empathy and bravery and leadership will come as side effects</strong>
+<br><b>Apply empathy and bravery and leadership will come as side effects</b>
 <br>Create space where your skills can be better known
 <br><strong>What gives us courage - create space where your and others skills can be better known - receive courage from knowing we are surrounded by deeper awareness of us and the world</strong>
 <br>#
