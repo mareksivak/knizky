@@ -1,4 +1,3 @@
-# Breath<br>
 The voice instructed us to inhale slowly through our noses, then to exhale slowly. To focus on our breath.<br>
 maybe 20 minutes passed.<br>
 happened in an instant.<br>
@@ -75,7 +74,7 @@ Increasing I tensity of excercises. Do mouth breathing vs nosebreathing<br>
 200watts - mouth cannot catch breath<br>
 Nose - 3x less breaths (14 vs47) a minute, same heartbeat (intensity 10x)<br>
 By nose - faster muscle recovery<br>
-*The best athletes breath by nose*<br>
+<strong>The best athletes breath by nose</strong><br>
 Train your nose for that<br>
 <br>
 To understand that you need to understand how body produces energy from air and food<br>
@@ -106,9 +105,9 @@ Imsomnia - breathing problem<br>
 Leads to hyperactivity, blood pressure, cancer, diabetes<br>
 <br>
 breathing through the right side of the nose activates the sympathetic nervous system, the “fight or flight” mechanism that puts the body in a more elevated state of alertness and readiness.<br>
-feed more blood to the opposite hemisphere of the brain, specifically to the prefrontal cortex, which has been associated with *logical decisions, language,* and computing.<br>
+feed more blood to the opposite hemisphere of the brain, specifically to the prefrontal cortex, which has been associated with <strong>logical decisions, language,</strong> and computing.<br>
 <br>
-Left nostril breathing / rest and relax, lowers pressure, cools body, *reduces anxiety*<br>
+Left nostril breathing / rest and relax, lowers pressure, cools body, <strong>reduces anxiety</strong><br>
 Left-nostril breathing shifts blood flow to the opposite side of the prefrontal cortex, to the area that influences creative thought and plays a role in the formation of mental abstractions<br>
 <br>
 Schizophrenia patient - breathed more on left. Recommended to more on the right to reduce hallucinations<br>
@@ -137,12 +136,12 @@ Mother's closed mouths of babies at sleep or after breastfeeding<br>
 <br>
 Breathe by nose all day - trained a habit to carry for life<br>
 <br>
-Viagra - releases nitric oxide into blood stream - increase delivering oxygen into cells - *immune function, mood, weight and sexual function heavily influenced*<br>
+Viagra - releases nitric oxide into blood stream - increase delivering oxygen into cells - <strong>immune function, mood, weight and sexual function heavily influenced</strong><br>
 Nasal breathing boosts nitrc oxide - 18percent more oxygen absorbed<br>
 <br>
 Extend lung capacity<br>
 -key to longevity<br>
-*Five Tibetan Rites,*<br>
+<strong>Five Tibetan Rites,</strong><br>
 involves a lot of stretching: back bends, neck bends, and twirling, each one a holy and ancient practice that had been passed down in secrecy from one Buddhist monk to another for 2,500 years.<br>
 Just a few minutes of daily bending and breathing can expand lung capacity. With that extra capacity we can expand our lives.<br>
 <br>
@@ -152,11 +151,11 @@ He reversed aging through nothing more than stretching and aging<br>
 Looked 20 years younger, full of energy<br>
 Bald head covered with thick hair<br>
 He studied manuscripts and learnt restorative practices from monks<br>
-Kelder described techniques in book *The Eye of Revelation,1939*<br>
+Kelder described techniques in book <strong>The Eye of Revelation,1939</strong><br>
 A few did read, even less did believe.however, lungs stretching exercises date back to 500bc<br>
 <br>
 Longevity - most important factor Lung capacity. Then genetics, diets, excercise.<br>
-*The smaller and lessefficient lungs, the easier to get sick - the shorter life*<br>
+<strong>The smaller and lessefficient lungs, the easier to get sick - the shorter life</strong><br>
 <br>
 Lung capacity degrades with age<br>
 30-50 12percent<br>
@@ -183,7 +182,7 @@ average of 2,000 gallons of blood a day. This regular and consistent blood flow 
 -<br>
 As we inhale, negative pressure draws blood into the heart; as we exhale, blood shoots back out into the body and lungs, where it recirculates.<br>
 -<br>
-And what powers the thoracic pump is the diaphragm, the *muscle that sits beneath the lungs in the shape of an umbrella*. The diaphragm lifts during exhalations, which shrinks the lungs, then it drops back down to expand them during inhalations.<br>
+And what powers the thoracic pump is the diaphragm, the <strong>muscle that sits beneath the lungs in the shape of an umbrella</strong>. The diaphragm lifts during exhalations, which shrinks the lungs, then it drops back down to expand them during inhalations.<br>
 <br>
 Engage 10 percent of umbrella muscle - overburdens heart, increase blood pressure<br>
 Extending breaths to 50-70 body works efficiently<br>
@@ -192,20 +191,20 @@ Pacients breathing on 1 percent - lie straight on back, slowlu´y inhale and exh
 <br>
 Our bodies can survive on short breaths for decades, and many of us do. That doesn’t mean it’s good for us.<br>
 <br>
-Toextend lungs- happens during *exhalation*<br>
+Toextend lungs- happens during <strong>exhalation</strong><br>
 when the amount of air that enters us equals the amount that leaves, and our bodies are able perform all their essential functions with the least exertion.<br>
 count from one to ten over and over with every exhale. “1, 2, 3, 4, 5, 6, 7, 8, 9, 10; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10—then keep repeating it,”<br>
 “Get out the last little molecule of air!”<br>
 “Keep moving your lips!”<br>
-*Power of full exhalation*<br>
+<strong>Power of full exhalation</strong><br>
 <br>
 Athletes<br>
 Most of them *breathed way too often, high* in their chests. Sprinters were the worst off. The short and violent breaths they took during runs put too much pressure on delicate tissues and bronchial tubes. As a result, they suffered from asthma and other respiratory ailments.<br>
 -<br>
 He warned them to never hold their breath when positioned at the starting line at the beginning of a race, but to *breathe deeply and calmly* and always exhale at the sound of the starter pistol. This way, the first breath they’d take in would be rich and full and provide them with energy to run faster and longer.<br>
 -i never felt so relaxed<br>
--*it takes half time to recover*<br>
-*-soon breaking personal records*<br>
+-<strong>it takes half time to recover</strong><br>
+<strong>-soon breaking personal records</strong><br>
 -stough's team won 18 gold medals in 68. Didnt need to use oxygen what was unheard at that time<br>
 <br>
 Importance of full exhalation<br>
@@ -222,7 +221,7 @@ paced breathing relaxed the body and calmed the mind.<br>
 /He had the kind of calm you see in monks/, Amish, and others who spend a lot of time in their inner worlds. <br>
 When he spoke, it was always softly, and with that annoying habit that all Scandinavians seem to have inherited: flawless English, with no umms or huhs or pauses.<br>
 <br>
-What many of these doctors found, and what Olsson would discover much later, was that the best way to prevent many chronic health problems, improve athletic performance, and extend longevity was to focus on how we breathed, specifically to *balance oxygen and carbon dioxide levels* in the body. To do this, we’d need to learn how to *inhale and exhale slowly.*<br>
+What many of these doctors found, and what Olsson would discover much later, was that the best way to prevent many chronic health problems, improve athletic performance, and extend longevity was to focus on how we breathed, specifically to <strong>balance oxygen and carbon dioxide levels</strong> in the body. To do this, we’d need to learn how to <strong>inhale and exhale slowly.</strong><br>
 <br>
 How could doing less give us more?<br>
 <br>
@@ -234,7 +233,7 @@ As blood passes through muscles, oxygen will disembark, providing fuel to hungry
 One roundtrip takes 1 minute<br>
 <br>
 That carbon dioxide in every exhale has weight, and we exhale more weight than we inhale.<br>
-*We lose weight through exhaled breath.*<br>
+<strong>We lose weight through exhaled breath.</strong><br>
 85percent weightless, rest sweat and urine<br>
 <br>
 muscles used during exercise received more oxygen than lesser-used muscles. They were producing more carbon dioxide, which attracted more oxygen.<br>
@@ -243,8 +242,8 @@ Rapid and panicked breaths<br>
 Purge co2<br>
 Reduced blood flow to muscles - inconsistent blood flow - feel light headed, headache, etc<br>
 <br>
-If you are *overbreathing*, no more oxygen is co sumed than needed - oxygen bars are useless. No more co2 is roduced. <br>
-*No benefit*, can create oxygen deficit and relative suffocation<br>
+If you are <strong>overbreathing</strong>, no more oxygen is co sumed than needed - oxygen bars are useless. No more co2 is roduced. <br>
+<strong>No benefit</strong>, can create oxygen deficit and relative suffocation<br>
 <br>
 Restore health - breathe SLOWLY<br>
 <br>
@@ -275,11 +274,11 @@ Same technique in yoga<br>
 5 breaths a minute<br>
 <br>
 <br>
-Whenever they followed this slow breathing pattern, *blood flow to the brain increased* <br>
+Whenever they followed this slow breathing pattern, <strong>blood flow to the brain increased</strong> <br>
 Blood circulation and breathing in harmony<br>
-Gets erratical when you talk - A *few more slow* and relaxed breaths, and it would return again.<br>
+Gets erratical when you talk - A <strong>few more slow</strong> and relaxed breaths, and it would return again.<br>
 -<br>
-Applied on patients with *depression and anxiety - become comfortable*<br>
+Applied on patients with <strong>depression and anxiety - become comfortable</strong><br>
 Best results 5.5s inhale, 5.5 s exhale - 5.5 breaths a min<br>
 <br>
 <br>
@@ -293,7 +292,7 @@ Indian Yogi's are trained to breathe less<br>
 Tiberian monks too - calm and reduce<br>
 Chinese - prescribed less than 10 breaths per min<br>
 <br>
-The key to optimum breathing, and all the health, endurance, and longevity benefits that come with it, is to practice *fewer* *inhales and exhales in a smaller volume*. To breathe, but to breathe less.<br>
+The key to optimum breathing, and all the health, endurance, and longevity benefits that come with it, is to practice <strong>fewer inhales and exhales in a smaller volume</strong>. To breathe, but to breathe less.<br>
 <br>
 Breathing less - same benefits as fasting<br>
 Occasionally leads to euphoria.<br>
@@ -301,7 +300,7 @@ Occasionally leads to euphoria.<br>
 Jogging<br>
 The key is to find a rhythm that works for you.<br>
 <br>
-Slower, *longer exhales*, of course, mean *higher carbon dioxide levels*. With that bonus carbon dioxide, we gain a higher aerobic endurance.<br>
+Slower, <strong>longer exhales</strong>, of course, mean <strong>higher carbon dioxide levels</strong>. With that bonus carbon dioxide, we gain a higher aerobic endurance.<br>
 <br>
 Buteyko - examined objects from the world around him<br>
 He came to view the world as a mechanism, and everything within it as a collection of parts locking together to form a greater whole.<br>
@@ -309,7 +308,7 @@ He came to view the world as a mechanism, and everything within it as a collecti
 he noticed that patients in the worst health all seemed to breathe far too much.<br>
 <br>
 Breathing normal like he would finished a workout. Noticed this is a terminal state for patients<br>
-He tried an experiment. He *started breathing less, to relax his chest and stomach* and sip air through his nose.<br>
+He tried an experiment. He <strong>started breathing less, to relax his chest and stomach</strong> and sip air through his nose.<br>
 A few mins later - pain disappeared.<br>
 Stopped - Within only five inhales, the pain returned.<br>
 <br>
@@ -334,7 +333,7 @@ Those already in good health felt even better. Athletes claimed big gains in per
 🇨🇿<br>
 He never wanted to run. When shoe company nomi nated him for a local race, he wanted to find an excuse. He finished 2/100.<br>
 <br>
-Zátopek developed his own training methods to give himself an edge. *He’d run as fast as he could holding his breath, take a few huffs and puffs* and then do it all again. It was an extreme version of Buteyko’s methods,<br>
+Zátopek developed his own training methods to give himself an edge. <strong>He’d run as fast as he could holding his breath, take a few huffs and puffs</strong> and then do it all again. It was an extreme version of Buteyko’s methods,<br>
 <br>
 Won 5k,10k gold. Decided to run a marathon, although he never run a one. He won gold.<br>
 <br>
@@ -345,7 +344,7 @@ Swimming<br>
 swimmers usually take two or three strokes before they flip their heads to the side and inhale. Counsilman trained his team to hold their breath for as many as nine strokes. He believed that, over time, the swimmers would utilize oxygen more efficiently and swim faster.-<br>
 They won 13 gold medals, 14 silver, and 7 bronze, and they set world records in 11 events.<br>
 <br>
-Critics were all wrong. They’d been looking at athletes holding their breath with *full lungs, and all that extra air in the lungs made it difficult* for the athletes to enter into a deep state of hypoventilation. (Under-)<br>
+Critics were all wrong. They’d been looking at athletes holding their breath with <strong>full lungs, and all that extra air in the lungs made it difficult</strong> for the athletes to enter into a deep state of hypoventilation. (Under-)<br>
 <br>
 Asthma<br>
 -medicine has dangerous side effect - includes life shortening<br>
@@ -388,7 +387,7 @@ Our ancient ancestors chewed for hours a day, every day. And because they chewed
 Thicker necks cramp airways. - 17 inches - snoring, sleep apnea<br>
 The smaller the mouth is, the more the tongue, uvula, and other tissues can obstruct airflow.<br>
 <br>
-When sitting or standing, the *spine should form a J-shape—perfectly straight until it reaches the small of the back*, where it naturally curves outward. While maintaining this posture, we should always breathe slowly through the nose into the abdomen. Our bodies and airways are designed to work best in this posture, both Mews agreed. *Look at any Greek statue*, or a drawing by Leonardo, or an ancient portrait. Everyone<br>
+When sitting or standing, the <strong>spine should form a J-shape—perfectly straight until it reaches the small of the back</strong>, where it naturally curves outward. While maintaining this posture, we should always breathe slowly through the nose into the abdomen. Our bodies and airways are designed to work best in this posture, both Mews agreed. <strong>Look at any Greek statue</strong>, or a drawing by Leonardo, or an ancient portrait. Everyone<br>
 Many people have hunched shoulders, S-shaped spine<br>
 <br>
 —-<br>
@@ -398,7 +397,7 @@ Heartbeat - use breathing techniques to calm down<br>
 long and slow breaths are so relaxing. As molecules of breath descend deeper, they switch on parasympathetic nerves (nerves in lungs - control feelings), which send more messages for the organs to rest and digest. <br>
 <br>
 The deeper and more softly we breathe in, and the longer we exhale, the more slowly the heart beats and the calmer we become.<br>
-*Chill out*<br>
+<strong>Chill out</strong><br>
 <br>
 Sympathetic states<br>
 In these states, the body redirects blood flow from less-vital organs like the stomach and bladder and sends it to the muscles and brain. Heart rate increases, adrenaline kicks in, blood vessels constrict, mind sharpens<br>
@@ -420,10 +419,10 @@ Buddhism that really fascinated her. She taught herself Sanskrit,<br>
 I want to condition myself so I can remain flexible to the constant pressures of modern life.<br>
 Professional surfers, mixed martial arts fighters, and Navy SEALs use Tummo-style breathing to get into the zone before a competition Or mission<br>
 <br>
-methods of *breathing slow, less, through the nose with a big exhale,* can also diffuse stress and restore balance. These techniques can be life-changing, and I’d seen dozens of people changed by them.<br>
+methods of <strong>breathing slow, less, through the nose with a big exhale,</strong> can also diffuse stress and restore balance. These techniques can be life-changing, and I’d seen dozens of people changed by them.<br>
 <br>
 We never fully relax<br>
-*We’ll spend our days half-asleep and nights half-awake*<br>
+<strong>We’ll spend our days half-asleep and nights half-awake</strong><br>
 Treba vagus nerve is half-stimulated - protects us I'm life threatening situations - slow heart rate and body functions to preserve energy in life threatening situation under attack of predator - playing dead, fainting<br>
 Blood flow decrease, communication between organs chopped<br>
 <br>
@@ -441,7 +440,7 @@ take in a huge breath without exhaling, and to hold it again for 15 seconds, gen
 <br>
 Men, mainly in their 20s, who’d suddenly been diagnosed with arthritis and psoriasis or depression, who, weeks after practicing heavy breathing, no longer suffered any symptoms.<br>
 <br>
-To practice *Wim Hof’s breathing method*, start by finding a quiet place and lying flat on your back with a pillow under your head. Relax the shoulders, chest, and legs. Take a very deep breath into the pit of your stomach and let it back out just as quickly. Keep breathing this way for 30 cycles.<br>
+To practice <strong>Wim Hof’s breathing method</strong>, start by finding a quiet place and lying flat on your back with a pillow under your head. Relax the shoulders, chest, and legs. Take a very deep breath into the pit of your stomach and let it back out just as quickly. Keep breathing this way for 30 cycles.<br>
 Each breath should look like a wave, with the inhale inflating the stomach, then the chest. You should exhale all the air out in the same order.<br>
 At the end of 30 breaths, exhale to the natural conclusion, leaving about a quarter of the air left in the lungs, then hold that breath for as long as possible. Once you’ve reached your breathhold limit, take one huge inhale and hold it another 15 seconds. Very gently, move that fresh breath of air around the chest and to the shoulders, then exhale and start the heavy breathing again. Repeat the whole pattern three or four rounds and add in some cold exposure (cold shower, ice bath, naked snow angels) a few times a week.<br>
 breathing all-out, then not at all,getting really cold and then hot again—is the key to Tummo’s magic. It forces the body into high stress one minute, a state of extreme relaxation<br>
@@ -456,7 +455,7 @@ LSD<br>
 “My first thought was that I was looking at Hiroshima. I then saw myself above the clinic, Prague, the planet. Consciousness had no boundaries, I was beyond the planet. I had cosmic consciousness.”<br>
 Couldn't use LSD any more, discovered heavy breathing instead - Grof<br>
 -<br>
-*breathing as hard and quickly as you could for up to three hours.*<br>
+<strong>breathing as hard and quickly as you could for up to three hours.</strong><br>
 -<br>
 Create a state of stress toaccess conscious and unconscious thoughts<br>
 -<br>
@@ -486,7 +485,7 @@ Count 100x one and two.<br>
 After blocking the breath to the extreme, exhale it subtly<br>
 If you feel hot, say Ho<br>
 If you feel cold, say Ch'ui<br>
-*Breathe like this amd count to 1000, you will need no grains and medicine*<br>
+<strong>Breathe like this amd count to 1000, you will need no grains and medicine</strong><br>
 <br>
 We remain in state of perpetual distraction - cannot fully focus<br>
 <br>
@@ -502,11 +501,11 @@ The most effective and safest blend they found was a few huffs of around 7 perce
 -no hallucinogenic effects - hardly notice, potential results<br>
 “Holy fuck! . . . I was breathing . . . and I started to feel fricking AMAZing. Euphoric even.<br>
 <br>
-These monks don’t huff and puff. Instead, they sit cross-legged and *breathe slow and less,* inducing a state of extreme relaxation and calm, reducing their metabolic rates by as much as 64 percent—<br>
+These monks don’t huff and puff. Instead, they sit cross-legged and <strong>breathe slow and less,</strong> inducing a state of extreme relaxation and calm, reducing their metabolic rates by as much as 64 percent—<br>
 The monks should be dead, or at least suffering from extreme hypothermia. However, in this very relaxed state, they’re able to increase body temperature by double digits and stay steaming hot in sub-zero temperatures for hours.<br>
 <br>
 Prana (India)<br>
-*Qi*<br>
+<strong>Qi</strong><br>
 -ancient theory of atoms<br>
 Objects - they’re all made of swirling atomic bits. It’s energy. It’s prana.<br>
 Qi - believed the body contained channels that functioned like prana power lines connecting<br>
