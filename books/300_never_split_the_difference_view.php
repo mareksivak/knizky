@@ -816,3 +816,470 @@
 <br>No smile, stood up, gone. We can do that. 30k
 <br>###
 <br>
+
+
+
+
+<br>
+BARGAINING<br>
+More than offers and counteroffers. Recognize psychological strategies that play vital role<br>
+<br>
+You are uncovering a riptide - identify psychological forces...use them somewhere more productive<br>
+More productive...<br>
+Yes. To a place where we can...<br>
+-mirroring. You can play with someone to get engaged for hour<br>
+-psychological tool that works well with assertive guys<br>
+<br>
+ANALYST Analysts are methodical and diligent. They are not in a big rush. Instead, they believe that as long as they are working toward the best result in a thorough and systematic way, time is of little consequence. Their self-image is linked to minimizing mistakes. Their motto: As much time as it takes to get it right.<br>
+reserved problem solvers, and information aggregators,<br>
+They will give you a piece, but if they don’t get a piece in return within a certain period of time, they lose trust and will disengage.<br>
+People like this are skeptical by nature.€€<br>
+Asking questions on beginning - they’re not going to want to answer until they understand all the implications.<br>
+Silence to them is an opportunity to think.If you feel they don’t see things the way you do, give them a chance to think first.<br>
+They are not quick to answer calibrated questions, or closed-ended questions when the answer is “Yes.” They may need a few days to respond.<br>
+If you are analyst *biggest thing you can do when you speak is smile*<br>
+Smiling can also become a habit that makes it easy for you to mask any moments you’ve been caught off guard.<br>
+Separate people and problem - resistant to reciprocity, friendliness<br>
+Time is preparation, silence is time to think<br>
+<br>
+ACCOMODATOR Accommodators think as long as there is a free-flowing continuous exchange of information time is being well spent. As long as they’re communicating, they’re happy.<br>
+They are very easy to talk to, extremely friendly, and have pleasant voices.<br>
+If they’re your counterpart, be sociable and friendly. Listen to them talk about their ideas and use calibrated questions focused specifically on implementation to nudge them along and find ways to translate their talk into action.<br>
+They want to get to know you first<br>
+Great use of chitchat<br>
+Builds relationship<br>
+<br>
+ASSERTIVE Their self-image is linked to how many things they can get accomplished in a period of time. Perfection not as important as getting done<br>
+Have aggressive communication style a d don't worry about future interactions<br>
+Care their own goals more than people<br>
+Want to be heard. Don't listen as long as they know they are heard<br>
+Use mirrors and calibrated questions to them. Get them say that's right<br>
+Reciprocity - give inch get mile - always expect something in return - they will look for opportunity to make more<br>
+Tone - may sound unintentionally harsh<br>
+Less approachable<br>
+Use silence to speak more<br>
+<br>
+See the world from their side<br>
+<br>
+If you think that world looks same for other as to you, they you will project yourself on others what makes damaging assumptions<br>
+Understand people are different, increase your success rate<br>
+<br>
+Start negotiation with punch that hurts<br>
+<br>
+Experiemced negotiators don't start looking for compromise. That start with ridiculous, an extreme offer<br>
+If you a re e not prepared for that you'll lose your moorings and go to your maximum immediately<br>
+#<br>
+-other side doesn't know it's an extreme offer<br>
+-freaks out this is standard to get deal done<br>
+<br>
+Mike Tyson: everybody has a plan until they are punched in the mouth<br>
+<br>
+Start with giving polite NO: "How am I supposed to do that?"<br>
+Or deflect anchor: "What are we trying to accomplish?"<br>
+#<br>
+-refocus counterpart pushing you to compromise<br>
+<br>
+If you get punch-in-face<br>
+-pivot to your terms: no monetary issues that make final price work<br>
+Encouraging voice<br>
+"Let's put price off to the side for a moment and talk about what would make this a good deal"<br>
+"What else would you be offer to make a good price for me?"<br>
+#<br>
+<br>
+If they say ok and push you to go first:<br>
+Instead of naming price, allude to incredibly high number someone would charge<br>
+"If you go to X, they will charge you..."<br>
+#<br>
+<br>
+Learn to make punch first, or you get punched<br>
+<br>
+Don't fold after being punched. Things don't go always according to plan. Asking for 600. Talking how students liked trip and how much it would mean<br>
+-money is tight and I can authorize only 300<br>
+-thats generous offer given your limits, but I don't know how it would help usto achieve a great reception for alumnis. We need 1000 (give extreme anchor)<br>
+-this is out of my range but I give you 500 (don't stop here, but it may get hard)<br>
+-850 would work<br>
+-im already giving you more than enough, 500 is reasonable (be ready for punches, talk about non monetary stuff)<br>
+-i want these money for great event for school. How about 775? You are my last stop<br>
+(Be sincere and tell how much you want)<br>
+(Ok to repeat your request, reasoning or question)<br>
+<br>
+Learn to punch - sometimes situation calls you to be aggressive<br>
+Only way to change counterparts rigid mindset<br>
+<br>
+Showing anger increase chances of successful negotiation - shows passion that makes counterpartto accept less<br>
+Fake anger destroys trust - keep it under comtrol<br>
+"I don't see this working" "how this would ever work"<br>
+Use as a tool for extreme situations<br>
+It's always better to say "Im sorry this just doesn't work for me"<br>
+<br>
+USING WHY<br>
+A. Get counterpart to defense - "why would you do that?"<br>
+B. Reinforces counterpart on your side - "why would you choose me? Your existing partners are great!"<br>
+<br>
+USING I<br>
+Take focus on you - gives you time to make your point<br>
+"I'm sorry, this doesn't work for me"<br>
+"I feel...when you...because..."<br>
+<br>
+If you feel you can't say no, then you are hostage<br>
+##<br>
+-<br>
+No deal is better than bad deal<br>
+Be clear on you bottom line. Never be needy for deal<br>
+<br>
+You need to respond / or express bottom line with empathetic and limitsettimg boundaries to maintain collaborative relationship<br>
+#<br>
+<br>
+Never see counterpart as enemy. Person is not a problem. The issue is. Focus on issue<br>
+<br>
+Our culture demonizes people - remove the person, problem is resolved<br>
+<br>
+Punch as last resort - always try to deescalate situation. Suggest time break - counterpart won't feel as hostage of the situation<br>
+Never create an enemy<br>
+<br>
+Powerful tools<br>
+Calibrated questions - what, how<br>
+Mirrors, labels<br>
+<br>
+Pay or we'll kill situation<br>
+-no room for discussion. Use Ackerman system, siutable for any situation (business deal, price negotiation - we cannot do anything more)<br>
+<br>
+1 set your target price and start your offer on 65pervent of target<br>
+-gives a slap that pushes them to their limit. The shock creates a fear of loss. Pushes them to raise<br>
+2 calculate three raises - 85, 95, 100<br>
+-this is counteroffer to their offer - makes them bid against themselves<br>
+3 be prepared to say NO in many polite ways before you increase offer<br>
+4 use precise and no round numbers, on your final number offer nonmonetary item they probably don't want - it shows you are on your limit<br>
+##<br>
+<br>
+Haiti<br>
+Punch with extreme anchor and keep hitting with calibrated questions<br>
+<br>
+Asking for 4751 dollars. One dollar sounds ridiculous but there is difference.<br>
+You can by nothing for 2 USD,but there is plenty of things for 1.99<br>
+<br>
+*You need to give strong resistance - this won't move you.*<br>
+*Let them feel you are tough case to say no.*<br>
+<br>
+Rent negotiation after receiving notice of increase<br>
+-luke the place, comparable offers not as good<br>
+-lay down situation: positive experiemce in the building, leats pay on time. Would be sad for me to leave and sad for landlord to lose a good tenant<br>
+*Buildings around neighbourhood offer MUCH LOWER price*s - not true but *indirectly tells I already pay too much*<br>
+Even if your building is better in terms of location and serviced´s, how am I supposed to pay 200 extra?<br>
+--agent: price is still good and we charge premium<br>
+I understand you have better location and amenities, but I cant. *Would 1730 a month for a year lease sound fair to you?*<br>
+Agent launged, don't get pulled into a haggle. Ask how they price renewals - turned out leaving would open risk of unrented appartment - one month would be 2000 loss<br>
+You need to improvise. You need to feel control of negotiation. You can give 2 or 3 offers - don't let rules ruin flow.<br>
+Let me try and move along with you - how about 1790?<br>
+Your number is very low. *Give me time to think this out* - any response that is not outright rejecyˇtion means you have edge<br>
+<br>
+*Say NO to any offer.* Once they start withdrawing, it gives them push<br>
+-thats generous from you, but how can I accept if I can live for 1800 a few blocks away? 150 a month means a lot to me. It seems you would rather *run the risk of keeping the place unrented*.<br>
+-its not that. I can't go lower<br>
+*Make dramatic pause*: ok, I will tell you. I initially went up from 1730 to 1790.  (Sigh) I will bring it up to 1810. Hope this works for both (still ridiculous, say with all respect. Gives punch)<br>
+Still low - ok, give me your last offer<br>
+<br>
+How to negotiate discount- decrease their offers, no round numbers, deep redearch, smart labelling, polite No.<br>
+<br>
+*You need to create conflict* <br>
+To successfully negotiate<br>
+Sometimes it's path to great deals<br>
+Find a way to have fun out of it - conflict brings out truth, creativity and resolution<br>
+<br>
+Prepare - *WORK BACKWARDS*<br>
+Set ambitious but legitimate goal<br>
+Prepare labels, questions, answers - you don't need to improvise<br>
+-prepare to give punch. Or you will get knocked off by ambitious anchor<br>
+Prepare tactics to avoid getting stuck at compromise trap<br>
+-determines boundaries and learn to give punch without anger. The guy is not the problem, the situation is<br>
+-prepare Ackerman Plan: 65, 85, 95, 100<br>
+<br>
+Back swan<br>
+-refers to impossible things. Until 17th century all swans were white<br>
+-things happen that were thought impossible<br>
+<br>
+All hostage takers wanted the same - money, respect, helicopter<br>
+<br>
+Internet, 911, financial crisis - none of these were predicted. Markers were there, but people didn't pay attention <br>
+<br>
+Predictions based on previous experiences are useless <br>
+-because you didn't see back swan, it doesn't mean I doesn't exist<br>
+<br>
+In negotiation there is<br>
+-what you know<br>
+-known unknowns<br>
+-unknown unknowns - these may be game changers if uncovered. However, no one may realise them<br>
+<br>
+To uncover unknown unknowns<br>
+-retain beginners mind<br>
+-forget what you know (you'd think you know enough - why would I need to know this?)<br>
+<br>
+Set hypothesis, that each negotiation has 3 Black swan which would change everything<br>
+<br>
+Finding black swans changes the game<br>
+-*from one-directional move-countermove game*<br>
+*-tomorrow 3d game that's emotional, adaptive, intuitove*<br>
+<br>
+You need to change your mindset<br>
+Open up established pathways<br>
+Embrace more intuitive and nuanced ways of listening<br>
+<br>
+What you don't know may kill your deal - negotiation, work, personal<br>
+People aren't able to articulate what they need. World didn't tell Steve Jobs it needs an iPhone. He saw need<br>
+<br>
+Conventional questions confirm known knowns. They don't dig to the unknown<br>
+<br>
+To uncover unknowns<br>
+-intensively listen, ask a lot of questioms<br>
+-*read nonverbal clues and always voice your observations with counterpart*<br>
+#<br>
+<br>
+-you have to feel truth behind camouflage, note sˇall pauses that suggest discomfort or lies<br>
+#<br>
+<br>
+Don't look to verify what you expect. If you do, that's what you'll find<br>
+Open yourself up to factual reality that's in front of you.<br>
+<br>
+Negotion is walking on tightrope<br>
+Focus on end goal will distract you.<br>
+Concentrate on your next step. Once you make all the steps, you'll be in the end<br>
+<br>
+People think black swans are highly proprietary or closely guarded info's.<br>
+Other side may be completely oblivious - nedbanlivý<br>
+They always have pieces their value they don't understand<br>
+<br>
+Leverage - inflict loss and withhold gain<br>
+<br>
+Where does your counterpart want to gain and there they are feared to lose?<br>
+#<br>
+<br>
+Find it and build leverage over counterparts notions and perceptions<br>
+In reality, it doesn't matter wj´hat leverage exists against you, what matters it what leverage they think they think you have on them - it's essentially emotional concept that can be manufactured whether it exists or not<br>
+If they are talking to you, you have leverage.<br>
+<br>
+Would you say that in hostage negatiation kidnapper has leverage?<br>
+They have something you love but you have something g they list for - see it from their side *where power is*.<br>
+*How many buyers they have for commodity that are trying to sell?*<br>
+#<br>
+What business is successful of there is only one buyer?<br>
+<br>
+Leverage has a lot of inputs, like time and necessity and competition. If you need to sell your house now, you have less leverage than if you don’t have a deadline. If you want to sell it but don’t have to, you have more. And if various people are bidding on it at once, good on you.<br>
+<br>
+leverage is as a fluid that sloshes between the parties. As a negotiator you should always be aware of which side, at any given moment, feels they have the most to lose if negotiations collapse. The party *who feels they have more to lose and are the most afraid of that loss has less leverag*e, and vice versa. To get leverage, you have to *persuade your counterpart that they have something real to lose* if the deal falls through.<br>
+<br>
+Positive leverage<br>
+When they say I want it. I want to buy<br>
+You have *powerful* to give it to them<br>
+You can make their desire come true, withhold it and inflict pain, use their desire fp´or a better deal with another party<br>
+--<br>
+Get an offer to sell business - so low it's insulting<br>
+Activate casual contacts with other buyers to start bidding war. *At least you force them To make a choice* - CS would do<br>
+Don't rush with answers. Y*ou control what they want.* Experienced negotiator delays offers, don't want to give up leverage<br>
+You have gone from from where you want something to *where you both want something from each other*<br>
+Identify their wants<br>
+-want to buy company over time - help him to do that, if he increase price<br>
+-maybe he cannot give more. Help him what he wants - but sell only 75percent of the business<br>
+<br>
+Eagle doesn't fight a snake on ground.<br>
+It picks it up into the sky and changes the battleground. Then releases it. Snake in the air is weak and vulnerable,unlike on the ground<br>
+<br>
+Life advice<br>
+Don't let simple things be complex<br>
+-find right partner so relationship isn't a nightmare<br>
+-find work that gets you excited every day<br>
+<br>
+Refuse to accept complexity.<br>
+People will argue your company is different and more complex than others. Refuse this<br>
+Apple, Nike - you can change the world, build important companies, market great products with 40-140 characters<br>
+<br>
+People will rather solve B problems than A problems<br>
+B problems are problems we know and they keep usin our comfort zone<br>
+A problems are high impact problems. <br>
+*If entire company focuses on B problems this prevents growth*<br>
+-fimd what they want and what you can give them<br>
+<br>
+Negative leverage<br>
+If you don't do x, I will damage your reputation - gets attention due to loss aversion - potential loses are bigger than similar gains, stronger motivation to save reputation from destruction<br>
+-pushing too much may lead to ignorance of the threat or acting irrationally<br>
+-try softer way: label negative leverage and make it clear without attacking<br>
+--*It seems you have strongly valued the fact that you have always paid on time*<br>
+--*it seems you don't care in what position you are leaving me in*<br>
+-highlight negative root cause, not the consequence to get their action<br>
+<br>
+Normative leverage<br>
+Everyone has moral standards, use them to leverage your position<br>
+*You have leverage if you can show inconsistencies between their beliefs and actions*<br>
+Know their values - uncover black swans<br>
+<br>
+<br>
+Understand first<br>
+<br>
+In sense negotiation its not how well speak, but how well you listen that determines your success<br>
+<br>
+Understanding is precondition to be persuasive and develop opinions that resonate<br>
+<br>
+Uncover black swans - very often worldview, religion<br>
+<br>
+Understand this before speaking rationally- rather to get them say YES if you want be influential<br>
+<br>
+Hostage negotiation - does their vision of future incˇvolve them living?<br>
+<br>
+Paradocˇx of power<br>
+The harder you push, the more resistance you get<br>
+<br>
+You get attention and results<br>
+When you show respect - show you hear, understand the worldview<br>
+Review we what you hear<br>
+<br>
+Similarity<br>
+Trigger them to realise they see things in the same way<br>
+That's right moment - we tend to trust more<br>
+<br>
+Show you understand their deep reasons<br>
+<br>
+Every engineer, every executive, every child—*all of us want to believe we are capable of the extraordinary.*<br>
+<br>
+-recognise and address their belief<br>
+- Give a purposeful plan to get there<br>
+<br>
+Ted Leonsis is great at this. As the owner of the Washington Wizards professional basketball team and the Washington Capitals professional hockey team, he is always talking about creating the immortal moments in sports that people will tell their grandchildren about. Who doesn’t want to come to an agreement with someone who is going to make them immortal?<br>
+<br>
+BECAUSE Request<br>
+People more likely do favors if you *give them Because...*<br>
+-research 90 vs 60: ask to skip line at photocopy - I *have 5 pages. can I cut in line BECAUSE I have to make copies* - you didn't say anything groundbreaking and this works fine <br>
+<br>
+I know understanding such things is the best way to discover the other side’s vulnerabilities and wants and thereby gain influence.<br>
+<br>
+When other say Thats crazy/Doesnt make sense - that's a perfect opportunity to discover black swans.<br>
+Refusing drill deeper is human nature to embrace unknown. It scares us<br>
+<br>
+People who operate with incomplete information appear crazy to those who have different<br>
+ExEmployee threatening lawsuit for unpaid commission 130k<br>
+They found mess in their system and it's only 25k. Offered to pay 25k if drops lwsuit<br>
+Exemployee says he's going forward with laysuit, acted irrationally, crazy<br>
+Malhotra told *problem is is not craziness, but lack of information and trust*<br>
+Made and audit and sent him results - he dropped the lawsuit<br>
+<br>
+Follow up email<br>
+Have you given up ...finalizing this deal?<br>
+<br>
+“You got to get him to dinner. You’re going to say, ‘/Would it be a bad idea for me to take you to your favorite steak house and we just have a few laughs, and we don’t talk business?/’”<br>
+-<br>
+But there was no way not to talk about it, and just because my client created personal, face-to-face interaction, the contact admitted he was the wrong guy.<br>
+<br>
+Discover black swans:<br>
+-Pay close attention to breaks in communication, anything that interrupts the flow<br>
+-moments before meeting is wrapped up, and when people are leaving can unˇcover a gold mine. Never turn off your recording<br>
+<br>
+“It looks like an interesting property,” he said. “Unfortunately, we don’t know the market fundamentals. We like downtown and King Street in particular, but we have a lot of questions.”<br>
+*How and What -* how has Charleston been affected by the economic downturn?”<br>
+“It sounds like I’m in good hands!” - *build Empathy*<br>
+“If he or she is selling such a cash cow, it seems like the seller must have doubts about future market fundamentals,” he said. - mislabelled, but broker corrected and showed black swan - seller needs cash for other mortages<br>
+*Counteroffer* - I think I have heard enough,” he said. “We are willing to offer $3.4 million.”<br>
+We cannot go more than 3.55 - rather Use label or calibrated question to get broker bid against himself - <br>
+<br>
+People generally fear conflict,<br>
+Obercome fear<br>
+LEARNING TO GET WHAT YOU WANT OUT OF LIFE<br>
+<br>
+People in close relationships often avoid making their own interests known and instead compromise across<br>
+<br>
+Are we really afraid of the guy across the table?<br>
+<br>
+our innate human desire to get along with other members of the tribe.<br>
+It's not the guy who scares us - it's the conflict<br>
+<br>
+-navigate it with empathy. If you’re going to be great at anything—a great negotiator, a great manager, a great husband,-you have to<br>
+<br>
+honest conflict between *people over their goals actually helps energize the problem-solving process* in a collaborative way. <br>
+<br>
+Skilled negotiators have a talent for using conflict to keep the negotiation going without stumbling into a personal battle.<br>
+<br>
+pushing hard for what you believe is not selfish. It is not bullying.<br>
+It's helping you<br>
+<br>
+When you ask calibrated questions, yes, you are leading your counterpart to your goals. But you are also leading them to examine and articulate what they want and why and how they can achieve it. You are demanding creativity of them, and therefore pushing them toward a collaborative solution.<br>
+<br>
+Whether in office or at home<br>
+*don’t avoid honest, clear conflict.*<br>
+It will get back to you as better job, higher salary or happy family<br>
+<br>
+Negotiate a better price<br>
+Besides making a win for you<br>
+Think how to make win for them. They won't like your offer but you help them reach their sales quota and for sure will pay more than their costs<br>
+If you cared about your win selfishly - you can steal it<br>
+<br>
+Remember to leverage multipliers - positive (give what they want), negative (hurt) and normative (using their norms to bring around)<br>
+<br>
+When someone acts irrationally and crazy, they most likely are not - figure out why - search for constraints, desires, bad info<br>
+<br>
+Never underestimate the power of extracting info from face - keep looking for 10 mins, don't stop<br>
+<br>
+---<br>
+<br>
+Make a list of negotiation tools you are using<br>
+<br>
+People have limited focus in complex and stressful situations, like negotiation<br>
+We gravitate towards focus point that has biggest psychological significance<br>
+-even if we win negotiation but end up with mediocre results<br>
+<br>
+I tell my clients that as part of their preparation they should think about the outcome extremes: best and worst. If you’ve got both ends covered, you’ll be ready for anything.<br>
+-*know what you cannot accept*<br>
+<br>
+Decades of goal-setting research is clear that people who set specific, challenging, but realistic goals end up getting better deals than those who don’t set goals or simply strive to do their best.<br>
+-*people who expect and (articulate it) more get more*<br>
+-determines high end goal<br>
+<br>
+Good practice - discuss your goal with friend or colleague before taking it to negotiation<br>
+<br>
+Tactical empathy validation<br>
+-when they say *that's right*<br>
+<br>
+--shated with developing common ground<br>
+--dont ask how is it different. Ask what does it have in common?<br>
+Ms<br>
+<br>
+*Labeling*<br>
+Prepare list of any accusations they may have no matter how unfair or ridiculous they may be<br>
+/Universal labels/<br>
+/It seems like _________ is valuable to you. <br>
+It seems like you don’t like _________. <br>
+It seems like you value __________. <br>
+It seems like _________ makes it easier. It seems like you’re reluctant to _________./<br>
+<br>
+/It seems like ... Is important/<br>
+/It seems you are worried about this./<br>
+<br>
+To Landlord: “It seems like you want stability with your tenants.”<br>
+<br>
+*Calibrated questions*<br>
+-look at their past positions - what are their demands<br>
+*Motivations - what worries them, what they hope for*<br>
+<br>
+*Most of us assume the needs of others conflict with ours*<br>
+<br>
+We tend to limit our vision only to our problems. Forget that others tˇhave problems too<br>
+<br>
+JK Rowling<br>
+“/You must accept the reality of other people. You think that reality is up for negotiation, that we think it’s whatever you say it is. You must accept that we are as real as you are; you must accept that you are not God.”/<br>
+<br>
+/What are we trying to accomplish?/<br>
+/How does this fit into what the objective is?/<br>
+/What’s the core issue here?/<br>
+<br>
+Consider others<br>
+When decision is made in comittee<br>
+Or<br>
+Decision will affect other people<br>
+Change may make them look as if they haven’t been doing their job. Your dilemma in such a negotiation is how to make them *look good in the face of that change.*<br>
+*self-esteem, status, autonomy*, and other nonfinancial needs. Think about their perceived losses.<br>
+<br>
+/For example, the guy across the table may be hesitating to install the new accounting system he needs (and you are selling) because he doesn’t want to screw anything up before his annual review in four months’ time. Instead of lowering your price, you can offer to help impress his boss, and do it safely, by promising to finish the installation in ninety days, guaranteed./<br>
+<br>
+/What are we up against here? What is the biggest challenge you face? How does making a deal with us affect things? What happens if you do nothing? What does doing nothing cost you?/<br>
+<br>
+*Noncash items*<br>
+<br>
+List of - *what could they give that would make us do it almost for free?*<br>
+<br>
+/They wanted to pay me as little as possible to look good in front of the board. They gave me a space in their magazine/

@@ -101,10 +101,17 @@ function append_book(id, primary, secondary, tertiary, file) {
 }
 
 function init_books() {
+    
+    append_book('306', 'Wim Hof', '', '', '306_wimhof_view');
+    append_book('305', 'Creative Selection at Apple', 'Ken Kocienda', '', '305_apple_view');
+    append_book('304', 'Breath', '', '', '304_breathe_view');
+    append_book('300', 'Never Split the Difference', 'Chris Voss', '', '300_never_split_the_difference_view');
+    
+    append_book('303', 'Exceptional Customer Service', '', '', '303_customer_service_view');
+    
+    append_book('299', 'Applied Empathy', '', '', '299_applied_empathy_view');
     append_book('302', 'Zappos: Delivering Happines', 'Tony Hsieh', '', '302_zappos_view');
     append_book('301', 'Finance for Expecutive', '', '', '301_finance_for_executives_view');
-    append_book('300', 'Never Split the Difference', 'Chris Voss', '', '300_never_split_the_difference_view');
-    append_book('299', 'Applied Empathy', '', '', '299_applied_empathy_view');
     append_book('298', 'The Amazon Way', '14 Leadership Principles', '', '298_amazon_view');
     append_book('297', 'The Power of Moments', '', '', '297_power_of_moments_view');
     append_book('296', 'Flow', 'Mihaly Csikszentmihalyi', '', '296_flow_view');
